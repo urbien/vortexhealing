@@ -16,7 +16,6 @@ Collaboration on Vortex content
 - better PR on for markdown
 - future: training the AI to answer vortex questions
 
-
 ## Internship program 
 There is a gap between graduating from the vortex class and becoming a professional healer. To successfully bridge that gap, there is a need for more support from teachers. COnsider this an equivalent of the internship program that 
 
@@ -24,7 +23,7 @@ There is a gap between graduating from the vortex class and becoming a professio
 - Monitoring healing sessions of students, review and evaluation afterwards
 - Healing office with lead practicioner and junior practicioners
 
-## Healing practice development
+## VortexHealing practice development
 VortexHealing is very impactful but is largely unknown to the general public. Below are some ideas on how to bridge needs of people who don't want to take VortexHealing classes but could use Vortex for their health, lifestyle and work developement. One can think of this in terms of referrals, affiliate programs and bridging of existing networks to VortexHealing. 
 
 - Longevity (e.g. via subscribers to related youtube channels)
