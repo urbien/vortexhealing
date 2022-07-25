@@ -34,6 +34,7 @@ Many sudents have a strong aversion to Facebook and therefore can't access the t
 Create a way to quickly customize a website with standard sections
 - Bio 
 - Level of training certificate 
+- Media: audio and video materials
 - Testimonies
 - Catalog: a list of offered services and their prices
 - Accept payments 
