@@ -81,7 +81,7 @@ VortexHealing is very impactful but is largely unknown to the general public. Be
 - Fear of exams (via prep schools, tutoring marketplaces)
 - Fear of public speaking (e.g. via an MBA school)
 - Elected to public office that have deep wound
-- Relief for side-effects of cancer treatments like chemo or radiation (via marihuana dispenseries??)
+- Relief for the side-effects of cancer treatments like chemo or radiation (via marihuana dispenseries??, via dedicated Facebook groups??)
 
 # For VortexHealing Teachers 
 ## Modular site
