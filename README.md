@@ -80,7 +80,7 @@ VortexHealing is very impactful but is largely unknown to the general public. Be
 
 # For VortexHealing Teachers 
 ## Modular site
-Similar to a site for practicioners, but also classes, their reviews, discussions
+Similar to a site for practicioners, but also classes, their reviews, discussions, wizard upkeep and morning routine. 
 
 ## Zoom tools 
 A synchronous translation of classes is important. I have a friend in Germany who does not speak English. I am sure the same is true in China, Japan, and other countries that have low general knowledge of English. This severely limits the reach of VortexHealing to the planet.
@@ -100,6 +100,7 @@ There is a currebtly a skills gap between graduating from the vortex class and b
 An app to help students with the study and practice (let's discuss what this app could do).
 
 # General VortexHealing awareness program
+- Youtube interviews
 - Go do a Google Talk like mindfulness guys did
 - Do a TED talk 
 - Do conversations with people who attract deep thinkers like Uval Harari, Sam Harris
