@@ -29,7 +29,6 @@ Many sudents have a strong aversion to Facebook and therefore can't access the t
 5. Perhaps a self-training app to help with study and practice at the student's current level, but this idea is still hazy.
 
 
-
 ## Search engine for all things vortex
 Many students completely forgot the tools and protocols that were taught in prior classes, and have hard time finding them in docs. Search should work across all the materials:
 
@@ -38,6 +37,7 @@ Many students completely forgot the tools and protocols that were taught in prio
 - Search Facebook Group 
 - Search an archive of Ric's emails 
 - Ric's books
+- AI to train on above VortexHealing content to improve the quality of automatic langauge translation 
 
 # For VortexHealing practicioners
 
