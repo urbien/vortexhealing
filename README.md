@@ -8,11 +8,11 @@ Below you can find the initial ideas that I am discussing with other VortexHeali
 ## Increase accessibility of VortexHealing documentation
 Student-teacher collaboration on VortexHealing classes review documents and other content
 
-- finding matching pictures for each document, protocol, issue series, class
-- alternatively, generating pcitures via generative art
+- Finding matching pictures for each document, protocol, issue series, class. Images can come from the following sites
+- Alternatively, generating pcitures via [generative art](https://openai.com/dall-e-2/)
 - Interlinking documents 
 - Generating table of contents for each document (and fixing headers to improve generated ToCs)
-- Solve problems of viewing on mobile devices by converting documents into HTML format. HTML allows zooming with automatic relayouting of content.
+- Solve problems of viewing on mobile devices by converting documents into HTML format. All modern browsers support HTML zooming, reflowing the content for a narrower view, which PDF does not do and Word on mobile does not do either.
 - Kindle format and other readers: converting to epub, mobi formats 
 - Collaborative editing either via Wiki workflow or via Github markdown workflow. This will allow to fix errors in text and improve readability.
 
@@ -86,7 +86,7 @@ Similar to a site for practicioners, but also classes, their reviews, discussion
 A synchronous translation of classes is important. I have a friend in Germany who does not speak English. I am sure the same is true in China, Japan, and other countries that have low general knowledge of English. This severely limits the reach of VortexHealing to the planet.
 
 - Auto-generation of subtitles for Zoom-based classes in real-time like Youtube does it. Some people can read but it is hard for them to quickly understand the spoken word, especially with Irish, Australian and US Midwest accents.
-- Auto-translation of subtitles into other languages
+- [Auto-translation](https://integrately.com/integrations/google-translate/zoom) of those subtitles into other languages
 - AI to train translator on VortexHealing vocabulary to improve the quality of the above
 
 ## Internship program for VortexHealing teachers
