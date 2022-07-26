@@ -92,3 +92,11 @@ There is a currebtly a skills gap between graduating from the vortex class and b
 - Monitoring healing sessions of students, review and evaluation afterwards
 - Healing office with lead practicioner and junior practicioners
 
+# General VortexHealing awareness program
+- Go do a Google Talk like mindfulness guys did
+- Do a TED talk 
+- Do conversations with people who attract deep thinkers like Uval Harari, Sam Harris
+- Present at Singularity Conference
+- Work with the astraunots who are preparing for the long stay at the space station, Lunar base, Mars mission 
+
+
