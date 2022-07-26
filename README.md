@@ -31,6 +31,12 @@ Many students completely forgot the tools and protocols that were taught in prio
 - Ric's books
 - AI to train on above VortexHealing content to improve the quality of automatic langauge translation 
 
+## Research for genmod targets
+There is a lot of ideas in Genetics class on what can be done with Genetics tools. What is missing is an ongoing discussion on what worked, what did not. We need progressive improvements in this area based on the new scientific data that arises and based on all the digital measurements and monitoring of the body that can be done nowadays, which was not possible earlier. 
+
+## Longevity 
+Various VortexHealing documents refer to life extension and health span extension techniques given in some classes. As with genmod for other non-age-related targets, we need consistent research and experimentation in this area. After all, average agen of VortexHealing community member is quite high, and if we can address some of the aging procsses, we can do healing of many deseases before and even after they emerge. See my article on recent [longevity breakthroughs](https://github.com/urbien/longevity).
+
 # For VortexHealing practicioners
 
 ## Modular site 
