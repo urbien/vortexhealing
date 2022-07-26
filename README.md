@@ -17,16 +17,27 @@ Student-teacher collaboration on VortexHealing classes review documents and othe
 - Collaborative editing either via Wiki workflow or via Github markdown workflow. This will allow to fix errors in text and improve readability.
 
 ## Mirrorring VortexHealers Facebook group
-Many sudents have a strong aversion to Facebook and therefore can't access the treasure trove of information accumulated in the last 10 years on this group
+Many sudents have a strong aversion to Facebook and therefore can't access the treasure trove of information accumulated in the last 10 years on this group. It is a shame many students are not part of the conversation and in post-COVID world with most classes moving online, they feel they are disconnected from the community. Many students are not even aware of all the questions that have been asked and answered already, and keep asking them in classes and events. 
 
-- Create a mirror copy of Facebook group, automatically syncing it to sudent area of VortexHealing.org website
+- Create a mirror copy of the Facebook group, automatically syncing it to the student area of VortexHealing.org website
 - Allow to post and comment on this website, auto-propagating the content back to the Facebook Group
+- 1. A parallel group synced bi-directionally with the FB Vortexhealers group. 
 
-## Search VortexHealing conntent
-- Search documents 
-- Search Vortexhealing.org site
+
+3. A template website for healers with all the tools like calendar, booking, payments, reminders. Most healers have no sites or have rudimentary ones.
+4. A synchronous translation of classes. I have a friend in Germany who does not speak English. I am sure the same is true in China, Japan, and other countries that have low general knowledge of English. This severely limits the intake of new students.
+5. Perhaps a self-training app to help with study and practice at the student's current level, but this idea is still hazy.
+
+
+
+## Search engine for all things vortex
+Many students completely forgot the tools and protocols that were taught in prior classes, and have hard time finding them in docs. Search should work across all the materials:
+
+- All VortexHealing documents 
+- Vortexhealing.org site, including testimonies, healing stories, etc.
 - Search Facebook Group 
 - Search an archive of Ric's emails 
+- Ric's books
 
 # For VortexHealing practicioners
 
