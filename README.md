@@ -1,20 +1,19 @@
 # Introduction and motivation
-I am practicing VortexHealing since April of 2021 and see objective measurable improvements with my health and subjective improvements in my human potential unfoldment. 
+I am practicing VortexHealing since April of 2021. I see objective (measurable) improvements with my health and subjective improvements of my human potential unfoldment, the [self-transcendence](https://www.mistysansom.com/blog/spirituality-and-maslows-hierarchy-of-needs) in Maslow's pyramid of needs.
 
 I have a drive to give back to the VortexHealing community by applying my professional knowledge in the area of computer science and software engineering. 
 
-Below you can find the initial ideas that I am discussing with other VortexHealing students.
+Below is a set of potential projects that emmerged from discussions with other VortexHealing students, projects that will serve VortexCommunity and bring awareness of its magic to people that are not part of it, but could benefit from its healing tools.
 
 ## Increase accessibility of VortexHealing documentation
-Student-teacher collaboration on VortexHealing classes review documents and other content
+Students can collaborate with teachers of VortexHealing classes to increase accessibility of class review documents and other VortexHealing content:
 
-- Finding matching pictures for each document, protocol, issue series, class. Images can come from the following sites
-- Alternatively, generating pcitures via [generative art](https://openai.com/dall-e-2/)
-- Interlinking documents 
-- Generating table of contents for each document (and fixing headers to improve generated ToCs)
 - Solve problems of viewing on mobile devices by converting documents into HTML format. All modern browsers support HTML zooming, reflowing the content for a narrower view, which PDF does not do and Word on mobile does not do either.
-- Kindle format and other readers: converting to epub, mobi formats 
-- Collaborative editing either via Wiki workflow or via Github markdown workflow. This will allow to fix errors in text and improve readability.
+- Automatically producing all documents in Kindle and Apple Books formats (epub and mobi formats). 
+- Generating table of contents for each document (and fixing headers to improve generated ToCs)
+- Collaboratively edit documents to fix errors in text and improve readability, and to interlink documents to make it easier to find relevant definitions, protocols, and explanations. This can be done either via Google docs, Wikis or via [Github markdown](https://bookdown.org/yihui/bookdown/collaboration.html). Those newer tools have long replaced the Word Document worlflow, used still by VortexHealers teachers. 
+- Adding relevant art and photos for each document, protocol, issue series, class. Images can come from the following sites: [add suggested sites here]
+- Alternatively, generate such art with [generative art](https://openai.com/dall-e-2/)
 
 ## Mirrorring VortexHealers Facebook group
 Many sudents have a strong aversion to Facebook and therefore can't access the treasure trove of information accumulated in the last 10 years on this group. It is a shame many students are not part of the conversation and in post-COVID world with most classes moving online, they feel they are disconnected from the community. Many students are not even aware of all the questions that have been asked and answered already, and keep asking them in classes and events. 
