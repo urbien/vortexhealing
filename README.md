@@ -92,6 +92,11 @@ There is a currebtly a skills gap between graduating from the vortex class and b
 - Monitoring healing sessions of students, review and evaluation afterwards
 - Healing office with lead practicioner and junior practicioners
 
+## Zoom tools 
+- Auto-generated subtitles 
+- Auto-translation of subtitles into other languages
+- AI to train translator on VortexHealing vocabulary to improve the quality of the above
+
 # General VortexHealing awareness program
 - Go do a Google Talk like mindfulness guys did
 - Do a TED talk 
