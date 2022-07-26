@@ -113,11 +113,11 @@ There is a currebtly a skills gap between graduating from the vortex class and b
 An app to help students with the study and practice (let's discuss what this app could do).
 
 # General VortexHealing awareness program
-- Youtube interviews
-- Go do a Google Talk like mindfulness guys did
-- Do a TED talk 
+- Interviews on Youtube with teachers, and some students that can tell an interesting story
+- Do a TED talk. This can be done both by teachers and students.
+- Do a Google Talk like mindfulness guys did
 - Do conversations with people who attract deep thinkers like Uval Harari, Sam Harris
-- Present at Singularity Conference
-- Work with the astraunots who are preparing for the long stay at the space station, Lunar base, Mars mission 
+- Present at the Singularity Conference
+- Work with the astronauts who are preparing for a long stay at the space station, Lunar base, and for the Mars mission 
 
 
