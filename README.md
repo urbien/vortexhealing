@@ -106,8 +106,8 @@ A synchronous translation of classes is important. I have a friend in Germany wh
 - [Auto-translation](https://integrately.com/integrations/google-translate/zoom) of those subtitles into other languages
 - AI to train translator on VortexHealing vocabulary to improve the quality of the above
 
-## Internship program for VortexHealing teachers
-There is a currebtly a skills gap between graduating from the vortex class and becoming a professional healer. To successfully bridge that gap, there is a need for more support from teachers. COnsider this an equivalent of the internship program that 
+## IDEA: Internship program for VortexHealing teachers
+There is currently a skills gap between graduating from the VortexHealing class and becoming a professional healer. To successfully bridge that gap, there is a need for more support from teachers. Consider this to be an equivalent of the internship program for medical professionals.
 
 - Energetic support for a group of students doing healing sessions on themselves or a partner
 - Monitoring healing sessions of students, review and evaluation afterwards
@@ -117,11 +117,12 @@ There is a currebtly a skills gap between graduating from the vortex class and b
 An app to help students with the study and practice (let's discuss what this app could do).
 
 # General VortexHealing awareness program
-- Interviews on Youtube with teachers, and some students that can tell an interesting story
+- Youtube interviews with teachers, like Ric did with Awareness Explorers
+- Youtube interviews with students, like Daisy did in 2022. I heard some pretty juicy and entrancing stories from VortexHealing students, which I found inspiring for myself, and may inspire others. I know these things work, as I also shared my VortexHealing and Path stories with others, and even though some were higher-level students or at least were doing VortexHealing for much longer than I did, they were encouraged to try some new things and intensify their own practice. 
 - Do a TED talk. This can be done both by teachers and students.
-- Do a Google Talk like mindfulness guys did
-- Do conversations with people who attract deep thinkers like Uval Harari, Sam Harris
-- Present at the Singularity Conference
-- Work with the astronauts who are preparing for a long stay at the space station, Lunar base, and for the Mars mission 
+- Do a Google Talk like the mindfulness guys did, which opened it up to a completely new audience.
+- Do recorded conversations with people who attract deep thinkers like Uval Harari, Sam Harris
+- Present at the Singularity Conference. This could bring completely new group of people into VortexHealing.
+- Work with the astronauts who are preparing for a long stay at the space station, Lunar base, and for the Mars mission. These extreme situations expose inner unresolved issues. It was well depicted in the show For All Mankind.
 
 
