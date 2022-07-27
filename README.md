@@ -16,10 +16,13 @@ Students can collaborate with teachers of VortexHealing classes to increase acce
 - Alternatively, generate such art with [generative art](https://openai.com/dall-e-2/)
 
 ## Mirrorring VortexHealers Facebook group
-Many sudents have a strong aversion to Facebook and therefore can't access the treasure trove of information accumulated in the last 10 years on this group. It is a shame many students are not part of the conversation and in post-COVID world with most classes moving online, they feel they are disconnected from the community. Many students are not even aware of all the questions that have been asked and answered already, and keep asking them in classes and events. 
+Many students have a strong aversion to Facebook and therefore can't access the treasure trove of information accumulated in the last 10 years on this group. It is a shame many students are not part of the conversation and in a post-COVID world, with most classes moving online, they feel they are disconnected from the community. Many students are not even aware of all the questions that have been asked and answered already, and keep asking them in classes and events. 
+An alternative forum capability on VortexHealing.org [was discussed in 2015](https://www.facebook.com/groups/vortexhealers/posts/987140791352536/) by Ric and Anthony, but it never materialized. Perhaps Anthony hit some technical issues or our Facebook forum admins provideed some manual support with the help of a pinned thread as a bulletin board. Here is the proposed solution, based on some [new tech](https://github.com/mautrix/facebook):
 
-- Create a mirror copy of the Facebook group, automatically syncing it to the student area of VortexHealing.org website
-- Allow to post and comment on this website, auto-propagating the content back to the Facebook Group
+- Create a mirror copy of the Facebook group, automatically syncing it to the student area of VortexHealing.org website.
+- Allow to post and comment on this website and propagate automatically these posts back to current Facebook Group.
+
+Assuming this works, those who like to continue using Facebook Group will be able to do so without any changes, and the rest of the community can join the conversation.
 
 ## Search engine for all things vortex
 Many students completely forgot the tools and protocols that were taught in prior classes, and have hard time finding them in docs. Also, finding some prior posts in the Facebook Vortexhealers group is very hard, sometimes takes hours, and sometimes impossible. That is even if you know who made the post and know the exact keywords. This is not good. Search should work across all the materials:
