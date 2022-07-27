@@ -42,12 +42,12 @@ There is a lot of ideas in Genetics class review manual on what can be done with
 ## Healthspan, Anti-aging, Longevity, Youthening, Rejuvenation
 Various VortexHealing documents refer to life extension and health span extension techniques given in some classes. VortexHealers group has some posts on the subject:
 
-- [shortened telomeres](https://www.facebook.com/groups/vortexhealers/posts/1061656497234298/)
-- [on the heart performance and stamina](https://www.facebook.com/groups/vortexhealers/posts/1982412285158710)
-- [glands](https://www.facebook.com/groups/vortexhealers/posts/964449080288374)
-- [thymus activation]() (still searching for this post)
-- [elevated blood pressure and sleep disruption](https://www.facebook.com/groups/vortexhealers/posts/3013750192024909)
-- [genmods](https://www.facebook.com/groups/vortexhealers/posts/5159360644130509). Also see this [newer genmod intention](https://www.facebook.com/groups/vortexhealers/posts/4051276051605646/) that Ric discovered in 2021.
+- [Reversing shortening of telomeres](https://www.facebook.com/groups/vortexhealers/posts/1061656497234298/)
+- [Improving heart performance and overal stamina](https://www.facebook.com/groups/vortexhealers/posts/1982412285158710)
+- [Optimizing glands](https://www.facebook.com/groups/vortexhealers/posts/964449080288374)
+- [Thymus activation]() (still searching for this post)
+- [Decreasing elevated blood pressure and sleep disruption](https://www.facebook.com/groups/vortexhealers/posts/3013750192024909)
+- [Healthspan genmods](https://www.facebook.com/groups/vortexhealers/posts/5159360644130509). Also see this [newer genmod intention](https://www.facebook.com/groups/vortexhealers/posts/4051276051605646/) that Ric discovered in 2021.
 
 As with genmod for other non-age-related targets, we need consistent research and experimentation in this area. After all, average age of VortexHealing community member is quite high, as this type of inner work requires maturity. If we can address some of the aging procsses, we can do healing of many deseases before and even after they emerge. See my prior article on recent [longevity breakthroughs](https://github.com/urbien/longevity). Note for example, a recent thymus regrowth experiment which resulted in the whole-body rejuvenation. Ric did an activation of his thymus, inspired by such research.
 
