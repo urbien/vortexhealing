@@ -119,8 +119,8 @@ There is currently a skills gap between graduating from the VortexHealing class 
 An app to help students with the study and practice (let's discuss what this app could do).
 
 # General VortexHealing awareness program
-- Youtube interviews with teachers, like Ric did with Awareness Explorers
-- Youtube interviews with students, like Daisy did in 2022. I heard some pretty juicy and entrancing stories from VortexHealing students, which I found inspiring for myself, and may inspire others. I know these things work, as I also shared my VortexHealing and Path stories with others, and even though some were higher-level students or at least were doing VortexHealing for much longer than I did, they were encouraged to try some new things and intensify their own practice. 
+- Youtube (or Spotify) interviews with VortexHealing teachers, like Ric did with [Awareness Explorers](https://www.youtube.com/watch?v=7Xv-CELriII)
+- Youtube (or Spotify) interviews with students, like Daisy did in 2022 on [Initiating Awakening](https://open.spotify.com/episode/2bWjfi75nVFFTtLMbbwHvx) and [Sex and Relationships](https://open.spotify.com/episode/7xtgyqm4zwUwEtLiC8m4Da). I heard some pretty juicy and entrancing stories from VortexHealing students, which I found inspiring for myself, and may inspire others. I know these things work, as I also shared my VortexHealing and Path stories with others, and even though some were higher-level students or at least were doing VortexHealing for much longer than I did, they were encouraged to try some new things and intensify their own practice. 
 - Do a TED talk. This can be done both by teachers and students.
 - Do a Google Talk like the mindfulness guys did, which opened it up to a completely new audience.
 - Do recorded conversations with people who attract deep thinkers like Uval Harari, Sam Harris
