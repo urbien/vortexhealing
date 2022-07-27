@@ -1,19 +1,21 @@
 # Introduction and motivation
-I am practicing VortexHealing since April of 2021. I see objective (measurable) improvements with my health and subjective improvements in my human potential unfoldment, the [self-transcendence](https://www.mistysansom.com/blog/spirituality-and-maslows-hierarchy-of-needs) in Maslow's pyramid of needs.
+I am practicing VortexHealing since April of 2021. I see objective (measurable) improvements with my health and subjective improvements in my human potential unfoldment, or [self-transcendence](https://www.mistysansom.com/blog/spirituality-and-maslows-hierarchy-of-needs) in Maslow's pyramid of needs.
 
 This led to a desire to give back to VortexHealing community by applying my professional knowledge in the area of computer science and software engineering. 
 
-Below is a set of potential projects that emmerged from discussions with other VortexHealing students. Those projects, if come to life, will fill the need of VortexHeling community and bring awareness of its magic to people that are not part of it, but could benefit from its healing tools.
+Below is a set of potential projects that emmerged from discussions with other VortexHealing students. Those projects, if come to life, will fill the need of VortexHealing community and bring awareness of its magic to people that are not part of it, but could benefit from its healing tools, or could wish to join it.
 
 ## Increase accessibility of VortexHealing documentation
-Students can collaborate with teachers of VortexHealing classes to increase accessibility of class review documents and other VortexHealing content:
+I have encountered a number of time the difficulty less technical students experience with class documents. Besides some texts could be made much easier to understand. Currently all the editing of the materials falls onto Ric (or teachers that offer their own unique classes).
 
-- Solve problems of viewing on mobile devices by converting documents into HTML format. All modern browsers support HTML zooming, reflowing the content for a narrower view, which PDF does not do and Word on mobile does not do either.
-- Automatically producing all documents in Kindle and Apple Books formats (epub and mobi formats). 
-- Generating table of contents for each document (and fixing headers to improve generated ToCs)
+Using modern tools and workflows, this burden can be lifted somewhat. One might think that improvement requests could flood Ric's and other teachers inboxes. But advanced students can be assigned the role of reviewing the document improvment requests, suggested by other students. If suggestion needs an improvement, the reviewer can send it back to the submitting student for correction. And only after the approval this could come to Ric for the final ok, where Ric can deny or accept the request, or make an adjustment. Thus students can collaborate with teachers to increase accessibility of class review documents and other VortexHealing content. Below are some ideas on this:
+
+- Solve problems of viewing on mobile devices by automatically converting documents into an HTML format. All modern browsers support HTML zooming and reflowing the content for a narrower view, which PDF does not do at all, and Word does not do on mobiles.
+- Automatically convert all documents to Kindle and Apple Books formats (epub and mobi formats). 
+- Automatically generate a table of contents for each document (headers in current documents need to be fixed manually for small number of cases where teachers use large font instead of a proper heading)
 - Collaboratively edit documents to fix errors in text and improve readability, and to interlink documents to make it easier to find relevant definitions, protocols, and explanations. This can be done either via Google docs, Wikis or via [Github markdown](https://bookdown.org/yihui/bookdown/collaboration.html). Those newer tools have long replaced the Word Document worlflow, used still by VortexHealers teachers. 
-- Adding relevant art and photos for each document, protocol, issue series, class. Images can come from the following sites: [add suggested sites here]
-- Alternatively, generate such art with [generative art](https://openai.com/dall-e-2/)
+- Adding relevant art and photos for each document, protocol, issue series, class. Images can come from the following sites: [add suggested sites here].
+- Alternatively, generate such art with [generative art](https://openai.com/dall-e-2/).
 
 ## Mirrorring VortexHealers Facebook group
 Many students have a strong aversion to Facebook and therefore can't access the treasure trove of information accumulated in the last 10 years on this group. It is a shame many students are not part of the conversation and in a post-COVID world, with most classes moving online, they feel they are disconnected from the community. Many students are not even aware of all the questions that have been asked and answered already, and keep asking them in classes and events. 
