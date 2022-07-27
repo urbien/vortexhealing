@@ -37,6 +37,7 @@ There is a lot of ideas in Genetics class review manual on what can be done with
 ## Healthspan, Anti-aging, Longevity, Youthening, Rejuvenation
 Various VortexHealing documents refer to life extension and health span extension techniques given in some classes. VortexHealers group has some posts on the subject:
 
+- [shortened telomeres](https://www.facebook.com/groups/vortexhealers/posts/1061656497234298/)
 - [on the heart performance and stamina](https://www.facebook.com/groups/vortexhealers/posts/1982412285158710)
 - [glands](https://www.facebook.com/groups/vortexhealers/posts/964449080288374)
 - [thymus activation]() (still searching for this post)
