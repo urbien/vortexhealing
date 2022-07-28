@@ -27,7 +27,8 @@ An alternative forum capability on VortexHealing.org [was discussed in 2015](htt
 Assuming this works, those who like to continue using Facebook Group will be able to do so without any changes, and the rest of the community can join the conversation.
 
 ## Search engine for all things vortex
-Many students completely forgot the tools and protocols that were taught in prior classes, and have hard time finding them in docs. Also, finding some prior posts in the Facebook Vortexhealers group is very hard, sometimes takes hours, and sometimes impossible. That is even if you know who made the post and know the exact keywords. This is not good. Search should work across all the materials:
+Many students completely forgot the tools and protocols that were taught in prior classes, and have hard time finding them in docs. Also, finding some prior posts in the Facebook Vortexhealers group is very hard, sometimes takes hours, and sometimes is plain impossible. This is not good. That is even if you know who made the post and know the exact keywords. Modern google-like search should allow to find materials using so called facets (post: or comment:) by a specific person (person:) or or during a specific timeframe (a month ago, a year ago, last 5 years, etc.). 
+Search should work across all the materials:
 
 - All VortexHealing documents 
 - Vortexhealing.org site, including testimonies, healing stories, etc.
