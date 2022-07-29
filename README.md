@@ -142,7 +142,8 @@ Below is the list that I suggest we start building:
 Let's build the list.  and add the most important steps of the energy system tune up (MG - UAP - MI projects document) that can be done after losing the Core Veil.
 
 ## Conditions for which VortexHealing may be helpful
-I have spent dozens of hours researching various conditions for myself and friends-and-family. I feel there should be a better way. Here is a list I suggest:
+I have spent dozens of hours researching various conditions for myself and friends-and-family. I feel there should be a better way. This is also a way for healers to earn some income, by communicating these on their websites (must be careful with wording to avoid legal issues).
+Here are the list I suggest we start building:
 
 ### Body
 - Allergies
@@ -162,7 +163,7 @@ I have spent dozens of hours researching various conditions for myself and frien
 - 
 
 ### Awakening
-Aside from classes, I have worked with a number of MI and UAP students to help me with my awakening progress. I feel this is an unknown category of help you can get if you have a strong drive and some money to spend. This is also a way for healers to earn some income.
+It is generally assumed that for awakening you need classes. It is true, but you can do more. Aside from classes, I have worked with a number of MI and UAP students. I feel this is an unknown category of help you can easily get in VortexHealing community if you have a strong drive and some money to spend.
 
-- Helping get through 14 energetic movements. After Omega class you will be at 14, but if you are one of those spiritual seekers like me, this is for you. I have done it, it is possible.
+- Helping you get through 14 energetic movements (there is a separate document on this in student area download section). After the Omega class you will be at the 14th, but if you are one of those spiritual seekers like me who can't wait, below is for you. I have done it, it is possible.
 - Help with loosing the Core Veil prior to the Core Veil class. You need 14 EC prior to that and then what worked for me was a number of sessions with the higher level students channeling Presence (Omega level) and Surrender / Grace (Jewel-level).
