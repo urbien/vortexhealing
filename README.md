@@ -35,7 +35,8 @@ Search should work across all the materials:
 - Search Facebook VortexHealers Group 
 - Search an archive of Ric's emails 
 - Ric's books
-- AI to train on above VortexHealing content to improve the quality of automatic langauge translation 
+
+With the above projects we will have a large corpous of text that will help us train AI to improve the quality of automatic language translation for Zoom and for other AI-based projects.
 
 ## Research for genmod targets
 There is a lot of ideas in Genetics class review manual on what can be done with Genetics tools. What is missing is an ongoing discussion on what worked, what did not. VortexHealers Facebook group has a number of posts on this topic. Yet we need more focused discusson and exploration of progressive improvements in this area based on the new scientific data that arises and based on all the digital measurements and monitoring of the body that can be done nowadays, which was not possible earlier. 
