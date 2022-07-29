@@ -163,7 +163,7 @@ Here are the list I suggest we start building:
 - 
 
 ### Awakening
-It is generally assumed that for awakening you need classes. It is true, but you can do more. Aside from classes, I have worked with a number of MI and UAP students. I feel this is an unknown category of help you can easily get in VortexHealing community if you have a strong drive and some money to spend.
+It is generally assumed In VortexHealing community that for awakening you need classes. It is true, but you can do more. For example, I have worked towards my awakening goals with a number of MI and UAP students as I did not have all the prerequisites yet for the awakening classes. If you have a strong drive and [quite] some money to spend, this is possible. It is mutually beneficial - hardcore seekers can accelerate development and higher level students can gain extra income.
 
 - Helping you get through 14 energetic movements (there is a separate document on this in student area download section). After the Omega class you will be at the 14th, but if you are one of those spiritual seekers like me who can't wait, below is for you. I have done it, it is possible.
 - Help with loosing the Core Veil prior to the Core Veil class. You need 14 EC prior to that and then what worked for me was a number of sessions with the higher level students channeling Presence (Omega level) and Surrender / Grace (Jewel-level).
