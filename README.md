@@ -129,4 +129,40 @@ An app to help students with the study and practice (let's discuss what this app
 - Present at the Singularity Conference. This could bring completely new group of people into VortexHealing.
 - Work with the astronauts who are preparing for a long stay at the space station, Lunar base, and for the Mars mission. These extreme situations expose inner unresolved issues. It was well depicted in the show For All Mankind.
 
+# Tips for students 
+## What would be good to do after Core Veil is gone?
+I asked this question to many wizards and did not get a clear answer. So I ended up just clearing the voridians. We all have seen the notes scattered around the class review documents saying that this and that could be done only after Core Veil. Let's gather these up and rate them by the impact. 
+Below is the list that I suggest we start building:
 
+1. [Weaken the Network of Networks](https://www.facebook.com/groups/vortexhealers/posts/1620368921363050/). This will significantly weaken all the conditioning in your system and make it easier to address each issue separately.
+2. De-networking room in Quinstel.
+3. 
+
+## If I had the money to spend, what should I invest into to upgrade my energetic system?
+Let's build the list.  and add the most important steps of the energy system tune up (MG - UAP - MI projects document) that can be done after losing the Core Veil.
+
+## Conditions for which VortexHealing may be helpful
+I have spent dozens of hours researching various conditions for myself and friends-and-family. I feel there should be a better way. Here is a list I suggest:
+
+### Body
+- Allergies
+- Autoimmune 
+- Hypertension (high blood pressure)
+- Infections
+- COVID
+- Anemia
+- Headache 
+
+### Mental health 
+- Anxiety 
+- Autism
+- ADHD
+- Schizophrenia 
+- Bipolar
+- 
+
+### Awakening
+Aside from classes, I have worked with a number of MI and UAP students to help me with my awakening progress. I feel this is an unknown category of help you can get if you have a strong drive and some money to spend. This is also a way for healers to earn some income.
+
+- Helping get through 14 energetic movements. After Omega class you will be at 14, but if you are one of those spiritual seekers like me, this is for you. I have done it, it is possible.
+- Help with loosing the Core Veil prior to the Core Veil class. You need 14 EC prior to that and then what worked for me was a number of sessions with the higher level students channeling Presence (Omega level) and Surrender / Grace (Jewel-level).
