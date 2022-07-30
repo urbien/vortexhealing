@@ -47,14 +47,15 @@ Various VortexHealing documents refer to life extension and health span extensio
 - [Reversing shortening of telomeres](https://www.facebook.com/groups/vortexhealers/posts/1061656497234298/)
 - [Improving heart performance and overal stamina](https://www.facebook.com/groups/vortexhealers/posts/1982412285158710)
 - [Optimizing glands](https://www.facebook.com/groups/vortexhealers/posts/964449080288374)
-- [Thymus activation]() (still searching for this post)
+- [Thymus activation](https://www.facebook.com/groups/vortexhealers/posts/3395590063840918/?comment_id=3395669413832983) (there were other comments / posts by Ric on FB group but I can't find them, after spending hours on this)
 - [Decreasing elevated blood pressure and sleep disruption](https://www.facebook.com/groups/vortexhealers/posts/3013750192024909)
 - [Healthspan genmods](https://www.facebook.com/groups/vortexhealers/posts/5159360644130509). Also see this [newer genmod intention](https://www.facebook.com/groups/vortexhealers/posts/4051276051605646/) that Ric discovered in 2021.
 - [Thymus activation](https://www.facebook.com/groups/vortexhealers/posts/3395590063840918/?comment_id=3395669413832983). Thymus may be key to longevity, see it discussed in my longevity review below.
 
-As with genmod for other non-age-related targets, we need consistent research and experimentation in this area. After all, average age of VortexHealing community member is quite high, as this type of inner work requires maturity. If we can address some of the aging procsses, we can do healing of many deseases before and even after they emerge. See my review on recent [longevity breakthroughs](https://github.com/urbien/longevity). Note for example, a recent thymus regrowth experiment which resulted in the whole-body rejuvenation. Ric did an activation of his thymus, inspired by such research.
+As with genmod for other non-age-related targets, we need consistent research and experimentation in this area. After all, average age of VortexHealing community member is quite high, as this type of inner work requires maturity. If we can address some of the aging procsses, we can do healing of many deseases before and even after they emerge. See my review on recent [longevity breakthroughs](https://github.com/urbien/longevity). Note for example, a recent thymus regrowth experiment which resulted in the whole-body rejuvenation. Ric did an activation of his thymus, inspired by such research (post is somewhere on FB Group..).
 
-# For VortexHealing practicioners
+# Help VortexHealing practitioners make a living 
+VortexHealing is a healing art and many students are trying to make a living by offering help, and many of them are struggling to sustain themeselves. Below are some ideas on how technology and processes supported by technology might be of help:
 
 ## Modular site 
 Most healers have no sites or have the rudimentary sites. Create a way to quickly customize a website with standard sections and tools, like these:
@@ -102,26 +103,26 @@ VortexHealing is very impactful but is largely unknown to the general public. Be
 
 # For VortexHealing Teachers 
 ## Modular site
-Similar to a site for practicioners, but also classes, their reviews, discussions, wizard upkeep and morning routine. 
+Similar to a site for practicioners, but also classes, their reviews, discussions, details on wizard upkeep, as Lorraine calls it and a morning routine, as Terrie does. 
 
 ## Zoom tools 
-A synchronous translation of classes is important. I have a friend in Germany who does not speak English. I am sure the same is true in China, Japan, and other countries that have low general knowledge of English. This severely limits the reach of VortexHealing to the planet.
+A synchronous translation of classes is important. I have a friend in Germany who does not speak English. What to do for potential students in China, Japan, and other countries that have much lower general knowledge of English than Germany? Lnaguage barrier severely limits the reach of VortexHealing on the planet. Here are some ideas that I partially researched:
 
 - Auto-generation of subtitles for Zoom-based classes in real-time like Youtube does it. Some people can read but it is hard for them to quickly understand the spoken word, especially with Irish, Australian and US Midwest accents.
 - [Auto-translation](https://integrately.com/integrations/google-translate/zoom) of those subtitles into other languages
-- AI to train translator on VortexHealing vocabulary to improve the quality of the above
+- AI can be trained on VortexHealing corpus of text to improve the quality of the above
 
-## IDEA: Internship program for VortexHealing teachers
-There is currently a skills gap between graduating from the VortexHealing class and becoming a professional healer. To successfully bridge that gap, there is a need for more support from teachers. Consider this to be an equivalent of the internship program for medical professionals.
+## Internship program for VortexHealing teachers
+There is currently a skills gap between graduating from the VortexHealing class and becoming a professional healer. To successfully bridge that gap, there is a need for more support from teachers. Consider this to be an equivalent of the internship program for medical professionals. Internship program needs to provide a revenue stream for teachers or it will be unsustainable. 
 
 - Energetic support for a group of students doing healing sessions on themselves or a partner
 - Monitoring healing sessions of students, review and evaluation afterwards
-- Healing office with lead practicioner and junior practicioners
+- Healing office with a lead practitioner and junior practitioners
 
 ## Mobile App
 An app to help students with the study and practice (let's discuss what this app could do).
 
-# General VortexHealing awareness program
+## General VortexHealing awareness program
 - Youtube (or Spotify) interviews with VortexHealing teachers, like Ric did with [Awareness Explorers](https://www.youtube.com/watch?v=7Xv-CELriII)
 - Youtube (or Spotify) interviews with students, like Daisy did in 2022 on [Initiating Awakening](https://open.spotify.com/episode/2bWjfi75nVFFTtLMbbwHvx) and [Sex and Relationships](https://open.spotify.com/episode/7xtgyqm4zwUwEtLiC8m4Da). I heard some pretty juicy and entrancing stories from VortexHealing students, which I found inspiring for myself, and may inspire others. I know these things work, as I also shared my VortexHealing and Path stories with others, and even though some were higher-level students or at least were doing VortexHealing for much longer than I did, they were encouraged to try some new things and intensify their own practice. 
 - Do a TED talk. This can be done both by teachers and students.
@@ -130,8 +131,10 @@ An app to help students with the study and practice (let's discuss what this app
 - Present at the Singularity Conference. This could bring completely new group of people into VortexHealing.
 - Work with the astronauts who are preparing for a long stay at the space station, Lunar base, and for the Mars mission. These extreme situations expose inner unresolved issues. It was well depicted in the show For All Mankind.
 
-# Tips for students 
-## What would be good to do after Core Veil is gone?
+## Higher-level students working on lower-level students
+I suspect a high percentage of healing income of higher level students comes from healing done on students that started work on their systems fairly recently. Yet in my experience, finding the right healer for a particular issue is very hard, and things to focus on are not so clear. After gathering such info, I find myself constantly advising other students and making referrals to higher level students. So here are some ideas on how to organize this knowledge:
+
+### What would be good to do after Core Veil is gone?
 I asked this question to many wizards and did not get a clear answer. So I ended up just clearing the voridians. We all have seen the notes scattered around the class review documents saying that this and that could be done only after Core Veil. Let's gather these up and rate them by the impact. 
 Below is the list that I suggest we start building:
 
@@ -139,7 +142,7 @@ Below is the list that I suggest we start building:
 2. De-networking room in Quinstel.
 3. 
 
-## If I had the money to spend, what should I invest into to upgrade my energetic system?
+### If I had the money to spend, what should I invest into to upgrade my energetic system?
 Let's build the list.  and add the most important steps of the energy system tune up (MG - UAP - MI projects document) that can be done after losing the Core Veil.
 
 ## Conditions for which VortexHealing may be helpful
