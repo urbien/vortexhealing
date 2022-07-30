@@ -80,26 +80,27 @@ VortexHealing is very impactful but is largely unknown to the general public. Be
 - Preparing for death (e.g. via hospice)
 - Grief counceling (e.g. via hospitals)
 - Marriage and relationship support
-- Breakup and divorce support 
-- Rape cases support
-- Long covid help, like clearing pathways for restoring the sense of taste and smell
-- Clearing infections, including secondary for covid 
-- Lyme desease and long Lyme
-- Genmod for known genetic risks (via the national lab networks??)
-- Support the therapy and deep wound release  
-- Support other mental conditions like Bipolar, Schizophrenia, if due to a virus
-- Support for autoimmune deseases, if due to a virus
+- Breakup and divorce support. People in sexual relationship grow attacgment cords, and their energy bodies intertwine. This makes breakup much harder and often very painful.
+- Rape cases support.
+- Long covid help, like clearing pathways for restoring the sense of taste and smell.
+- Clearing infections, including secondary for covid. 
+- Lyme desease and long Lyme.
+- Genmod for known genetic risks (via the national lab networks??).
+- Support the therapy and deep wound release.  
+- Support other mental conditions like Bipolar, Schizophrenia, if due to a virus.
+- Support for autoimmune deseases, if due to a virus.
 - New home, new apartment, such as clearing, blessing, creating divine portals.
-- Unresolved parent issues
-- Losing weight, improving digestion 
-- Loosing hair 
-- Energy system check up and repair (via longevity networks)
-- Meridians unreachable with needles (via accupuncturists networks)
-- Karmic knots (via Buddhist schools??)
-- Fear of exams (via prep schools, tutoring marketplaces)
-- Fear of public speaking (e.g. via an MBA school)
-- Elected to public office that have deep wound
-- Relief for the side-effects of cancer treatments like chemo or radiation (via marihuana dispenseries??, via dedicated Facebook groups??)
+- Clearing of entities and post clearing restoration.
+- Unresolved parent issues.
+- Losing weight, improving digestion.
+- Loosing hair and developing boldness. 
+- Energy system check up and repair (via longevity networks).
+- Meridians unreachable with needles (via accupuncturists networks).
+- Karmic knots (via Buddhist schools??).
+- Fear of exams (via prep schools, tutoring marketplaces).
+- Fear of public speaking (e.g. via an MBA school).
+- Elected to public office that have deep wound.
+- Relief for the side-effects of cancer treatments like chemo or radiation (via marihuana dispenseries??, via dedicated Facebook groups??).
 
 # For VortexHealing Teachers 
 ## Modular site
@@ -149,7 +150,10 @@ Let's build the list.  and add the most important steps of the energy system tun
 I have spent dozens of hours researching various conditions for myself and friends-and-family. I feel there should be a better way. This is also a way for healers to earn some income, by communicating these on their websites (must be careful with wording to avoid legal issues).
 Here are the list I suggest we start building:
 
-### Body
+### Remote diagnostics
+VortexHealing can be used for diagnostics of conditions, which you can then take to the traditional medicine.
+
+### Bodily issues
 - Allergies
 - Autoimmune 
 - Hypertension (high blood pressure)
@@ -158,7 +162,7 @@ Here are the list I suggest we start building:
 - Anemia
 - Headache 
 
-### Mental health 
+### Mental health issues 
 - Anxiety 
 - Autism
 - ADHD
