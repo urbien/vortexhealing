@@ -75,11 +75,15 @@ I suspect a high percentage of healing income of higher level students comes fro
 
 ### Initial Patient Checkup
 MG/UAP/MI projects file states that in the first session with the patient, the healer needs to check for the most disruptive things in patient's system that need to be addressed before moving forward. I received many healing sessions from higher level students and referred a lot of people to to them, and it turns out this checkup is not typically done upfront. Yet, when I specifically asked for it, it turned out I had plenty of nasties in my system, clearing which made a world of difference for me. It is highly beneficial to do such checkup for any new students, and if this is done systematically, it can be a good source of income for healers. So let's build the list:
-- viruses and especially sub-clinical viruses
-- spot of non-existence 
-- black hole(s) 
-- fixations 
-- Death spot. "Everyone has a dark spot deep in the navel that holds all kinds of stuff connected with death and fear of death" (needs UAP/MI to clear most of it).
+- Viruses and especially sub-clinical viruses
+- Spots of Non-Existence 
+- Black hole(s) (1/3 of people would have one)
+- Fixations 
+- Entanglements
+- Divine Structures and Blueprints
+- Death spot (everyone has it, needs UAP/MI to clear most of it).
+- Gremmies of different kinds
+- Other karmic structures
 
 ### What would be good to do after Core Veil is gone?
 I asked this question to many wizards and did not get a clear answer. So I ended up just clearing the voridians. We all have seen the notes scattered around the class review documents saying that this and that could be done only after Core Veil. Let's gather these up and rate them by the impact. 
