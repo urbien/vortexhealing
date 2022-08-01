@@ -41,7 +41,7 @@ With the above projects we will have a large corpous of text that will help us t
 ## Research for genmod targets
 There is a lot of ideas in Genetics class review manual on what can be done with Genetics tools. What is missing is an ongoing discussion on what worked, what did not. VortexHealers Facebook group has a number of posts on this topic. Yet we need more focused discusson and exploration of progressive improvements in this area based on the new scientific data that arises and based on all the digital measurements and monitoring of the body that can be done nowadays, which was not possible earlier. 
 
-## Healthspan, Anti-aging, Longevity, Youthening, Rejuvenation
+# Healthspan, Anti-aging, Longevity, Youthening, Rejuvenation
 Various VortexHealing documents refer to life extension and health span extension techniques given in some classes. VortexHealers group has some posts on the subject:
 
 - [Reversing shortening of telomeres](https://www.facebook.com/groups/vortexhealers/posts/1061656497234298/)
@@ -53,8 +53,75 @@ Various VortexHealing documents refer to life extension and health span extensio
 
 As with genmods for other non-age-related targets, we need consistent research and experimentation in this area. After all, average age of VortexHealing community member is quite high, as this type of inner work requires maturity. If we can address some of the aging procsses, we can do healing of many deseases before and even after they emerge. See my review on recent [longevity breakthroughs](https://github.com/urbien/longevity). Note for example, a recent thymus regrowth experiment which resulted in the whole-body rejuvenation. Ric did an activation of his thymus, inspired by such research (post is somewhere on FB Group..).
 
-# Help VortexHealing practitioners make a living 
-VortexHealing is a healing art and many students are trying to make a living by offering help, and many of them are struggling to sustain themeselves. Below are some ideas on how technology and processes supported by technology might be of help:
+# Helping VortexHealing practitioners to make a living 
+VortexHealing is a healing art and many students are trying to make a living as a full-time healer. Yet most are struggling to sustain themeselves. Below are some ideas on how technology and processes supported by technology might be of help:
+
+
+## Higher-level students working on lower-level students
+I suspect a high percentage of healing income of higher level students comes from healing done on students that started work on their systems fairly recently. Yet in my experience, finding the right healer for a particular issue is very hard, and things to focus on are not so clear. After gathering such info, I find myself constantly advising other students and making referrals to higher level students. It appears just listing healings by the level of their classes taken is helpful but inadequate. So here is an idea: list healers by their core specialty:
+- most knowlegeable with formal VortexHEaling protocols and specific tools given in varios classes
+- experience with particular types of conditions, e.g. traumas, infections
+- intuitives that follow Merlin's lead, zeroing in on what your system needs mpot
+- with highly developed sensing to check for specific conditions, energy levels, capable of full inspecion of energetic system and bodily functions, etc.
+- those that can help with furthering and deepening the relationship with the Divine
+- those that can discover your strongest choice points
+- 
+
+### Checkup
+MG/UAP/MI protocol states that in the first session with the patient, healer needs to check for the most disruptive things in patient's system that need to be addressed before moving forward. I received many healing sessions from higher level students and referred a lot of people to to them, and it turns out this checkup is not typically done upfront. Yet, when I specifically asked for it, it turned out I had plenty of nasties in my system. It is highly beneficial to do for any students, and can be a good source of income for healers, if done systematically. So hear is the list:
+- viruses and especially sub-clinical viruses
+- spot of non-existence 
+- black hole(s) 
+- fixations 
+- 
+
+### What would be good to do after Core Veil is gone?
+I asked this question to many wizards and did not get a clear answer. So I ended up just clearing the voridians. We all have seen the notes scattered around the class review documents saying that this and that could be done only after Core Veil. Let's gather these up and rate them by the impact. 
+Below is the list that I suggest we start building:
+
+1. [Weaken the Network of Networks](https://www.facebook.com/groups/vortexhealers/posts/1620368921363050/). This will significantly weaken all the conditioning in your system and make it easier to address each issue separately.
+2. De-networking room in Quinstel.
+3. 
+
+## If I had the money to spend, what should I invest into to upgrade my energetic system?
+Let's build the list.  and add the most important steps of the energy system tune up (MG - UAP - MI projects document) that can be done after losing the Core Veil.
+- Fix shut down energetic pathways, if any
+- Fix shut down voridian nodes, if any 
+- Check each organ's energy level, for subtle and physical organs
+- Check for damage of the Luminous Egg
+- Replentish Pre-natal Jing
+- Restore converstion from pre-natal Jing to Kidney Essence
+- Replentish Kidney Essence
+
+## Conditions for which VortexHealing may be helpful
+I have spent dozens of hours researching various conditions for myself and friends-and-family. I feel there should be a better way. This is also a way for healers to earn some income, by communicating these on their websites (must be careful with wording to avoid legal issues).
+Below is the list I suggest we start building.
+
+**Note: on remote dignostics**
+VortexHealing is not a replacement for medical disgnostics and intervention, but can be used to complement it, e.g. VortexHealing can be used for diagnostics of conditions (e.g. infections, kidney stones, and even tumors), which you can then take to the traditional medical doctor.
+
+### Bodily issues
+- Allergies
+- Autoimmune 
+- Hypertension (high blood pressure)
+- Infections
+- COVID
+- Anemia
+- Headache 
+
+### Mental health issues 
+- Anxiety 
+- Autism
+- ADHD
+- Schizophrenia 
+- Bipolar
+- 
+
+### Awakening
+It is generally assumed In VortexHealing community that for awakening you need classes. It is true, but you can do more. For example, I have worked towards my awakening goals with a number of MI and UAP students as I did not have all the prerequisites yet for the awakening classes. If you have a strong drive and [quite] some money to spend, this is possible. It is also healthy as it is mutually beneficial - hardcore seekers can accelerate their highly desired development and the higher level students can gain extra sustenance.
+
+- Helping you get through 14 energetic movements (there is a separate document on this in student area download section). After the Omega class you will be at the 14th, but if you are one of those spiritual seekers like me who can't wait, below is for you. I have done it, it is possible.
+- Help with loosing the Core Veil prior to the Core Veil class. You need 14 EC prior to that and then what worked for me was a number of sessions with the higher level students channeling Presence (Omega level) and Surrender / Grace (Jewel-level).
 
 ## Modular site 
 Most healers have no sites or have the rudimentary sites. Create a way to quickly customize a website with standard sections and tools, like these:
@@ -73,7 +140,7 @@ Most healers have no sites or have the rudimentary sites. Create a way to quickl
     - Monthly subscriptions
 
 ## VortexHealing practice development
-VortexHealing is very impactful but is largely unknown to the general public. Below are some ideas on how to bridge needs of people who don't want to take VortexHealing classes but could use Vortex for their health, lifestyle and work developement. One can think of this in terms of referrals, affiliate programs and bridging of existing networks to VortexHealing. 
+VortexHealing is very impactful but is largely unknown to the general public. Below are some ideas on how to bridge needs of people who don't want to take VortexHealing classes but could use Vortex for their health, lifestyle and work developement. One can think of this in terms of referrals, affiliate programs and bridging of existing networks to VortexHealing. Each area below has its own network online and in the physical world, and we need to think of how to integrate with such networks:
 
 - Longevity (e.g. via subscribers to related youtube channels)
 - Preparing for death (e.g. via hospice)
@@ -101,10 +168,6 @@ VortexHealing is very impactful but is largely unknown to the general public. Be
 - Elected to public office that have deep wound.
 - Relief for the side-effects of cancer treatments like chemo or radiation (via marihuana dispenseries??, via dedicated Facebook groups??).
 
-# For VortexHealing Teachers 
-## Modular site
-Similar to a site for practicioners, but also classes, their reviews, discussions, details on wizard upkeep, as Lorraine calls it and a morning routine, as Terrie does. 
-
 ## Zoom tools 
 A synchronous translation of classes is important. I have a friend in Germany who does not speak English. What to do for potential students in China, Japan, and other countries that have much lower general knowledge of English than Germany? Lnaguage barrier severely limits the reach of VortexHealing on the planet. Here are some ideas that I partially researched:
 
@@ -112,15 +175,12 @@ A synchronous translation of classes is important. I have a friend in Germany wh
 - [Auto-translation](https://integrately.com/integrations/google-translate/zoom) of those subtitles into other languages
 - AI can be trained on VortexHealing corpus of text to improve the quality of the above
 
-## Internship program for VortexHealing teachers
+## Internship program
 There is currently a skills gap between graduating from the VortexHealing class and becoming a professional healer. To successfully bridge that gap, there is a need for more support from teachers. Consider this to be an equivalent of the internship program for medical professionals. Internship program needs to provide a revenue stream for teachers or it will be unsustainable. 
 
 - Energetic support for a group of students doing healing sessions on themselves or a partner
 - Monitoring healing sessions of students, review and evaluation afterwards
-- Healing office with a lead practitioner and junior practitioners
-
-## Mobile App
-An app to help students with the study and practice (let's discuss what this app could do).
+- Healing office with a lead practitioner and junior practitioners 
 
 ## General VortexHealing awareness program
 - Youtube (or Spotify) interviews with VortexHealing teachers, like Ric did with [Awareness Explorers](https://www.youtube.com/watch?v=7Xv-CELriII)
@@ -131,46 +191,8 @@ An app to help students with the study and practice (let's discuss what this app
 - Present at the Singularity Conference. This could bring completely new group of people into VortexHealing.
 - Work with the astronauts who are preparing for a long stay at the space station, Lunar base, and for the Mars mission. These extreme situations expose inner unresolved issues. It was well depicted in the show For All Mankind.
 
-## Higher-level students working on lower-level students
-I suspect a high percentage of healing income of higher level students comes from healing done on students that started work on their systems fairly recently. Yet in my experience, finding the right healer for a particular issue is very hard, and things to focus on are not so clear. After gathering such info, I find myself constantly advising other students and making referrals to higher level students. So here are some ideas on how to organize this knowledge:
+## Modular site for VortexHealing Teachers 
+Similar to a site for practicioners, but also classes, their reviews, discussions, details on wizard upkeep, as Lorraine calls it and a morning routine, as Terrie does.
 
-### What would be good to do after Core Veil is gone?
-I asked this question to many wizards and did not get a clear answer. So I ended up just clearing the voridians. We all have seen the notes scattered around the class review documents saying that this and that could be done only after Core Veil. Let's gather these up and rate them by the impact. 
-Below is the list that I suggest we start building:
-
-1. [Weaken the Network of Networks](https://www.facebook.com/groups/vortexhealers/posts/1620368921363050/). This will significantly weaken all the conditioning in your system and make it easier to address each issue separately.
-2. De-networking room in Quinstel.
-3. 
-
-### If I had the money to spend, what should I invest into to upgrade my energetic system?
-Let's build the list.  and add the most important steps of the energy system tune up (MG - UAP - MI projects document) that can be done after losing the Core Veil.
-
-## Conditions for which VortexHealing may be helpful
-I have spent dozens of hours researching various conditions for myself and friends-and-family. I feel there should be a better way. This is also a way for healers to earn some income, by communicating these on their websites (must be careful with wording to avoid legal issues).
-Here are the list I suggest we start building:
-
-### Remote diagnostics
-VortexHealing can be used for diagnostics of conditions, which you can then take to the traditional medicine.
-
-### Bodily issues
-- Allergies
-- Autoimmune 
-- Hypertension (high blood pressure)
-- Infections
-- COVID
-- Anemia
-- Headache 
-
-### Mental health issues 
-- Anxiety 
-- Autism
-- ADHD
-- Schizophrenia 
-- Bipolar
-- 
-
-### Awakening
-It is generally assumed In VortexHealing community that for awakening you need classes. It is true, but you can do more. For example, I have worked towards my awakening goals with a number of MI and UAP students as I did not have all the prerequisites yet for the awakening classes. If you have a strong drive and [quite] some money to spend, this is possible. It is also healthy as it is mutually beneficial - hardcore seekers can accelerate their highly desired development and the higher level students can gain extra sustenance.
-
-- Helping you get through 14 energetic movements (there is a separate document on this in student area download section). After the Omega class you will be at the 14th, but if you are one of those spiritual seekers like me who can't wait, below is for you. I have done it, it is possible.
-- Help with loosing the Core Veil prior to the Core Veil class. You need 14 EC prior to that and then what worked for me was a number of sessions with the higher level students channeling Presence (Omega level) and Surrender / Grace (Jewel-level).
+## Mobile App
+An app to help students with the study and practice (let's discuss what this app could do).
