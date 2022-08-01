@@ -19,12 +19,14 @@ Using modern tools and workflows, this burden can be lifted somewhat. One might 
 
 ## Mirrorring VortexHealers Facebook group
 Many students have a strong aversion to Facebook and therefore can't access the treasure trove of information accumulated in the last 10 years on this group. It is a shame many students are not part of the conversation and in a post-COVID world, with most classes moving online, they feel they are disconnected from the community. Many students are not even aware of all the questions that have been asked and answered already, and keep asking them in classes and events. 
-An alternative forum capability on VortexHealing.org [was discussed in 2015](https://www.facebook.com/groups/vortexhealers/posts/987140791352536/) by Ric and Anthony, but it never materialized. Perhaps Anthony hit some technical issues or our Facebook forum admins provided some manual support with the help of a pinned thread as a make shift bulletin board. Here is the proposed solution, based on some [new tech](https://github.com/mautrix/facebook):
+An alternative forum capability on VortexHealing.org [was discussed in 2015](https://www.facebook.com/groups/vortexhealers/posts/987140791352536/) by Ric and Anthony, but it never took hold. Perhaps Anthony hit some technical issues or our Facebook forum admins provided some manual support with the help of a pinned thread as a make shift bulletin board. Here is the proposed solution, based on some [new tech](https://github.com/mautrix/facebook). It is a bridge between [Matrix](https://matrix.org), the world's [most secure group messaging solution](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/edit#gid=0), which is also 100% open source.
 
 - Create a mirror copy of the Facebook group, automatically syncing it to the student area of VortexHealing.org website.
 - Allow to post and comment on this website and propagate automatically these posts back to current Facebook Group.
 
 Assuming this works, those who like to continue using Facebook Group will be able to do so without any changes, and the rest of the community can join the conversation.
+
+And even if it does not work for bi-directional syncing, it is still very valuable to sync one-way for a search engine to index 10+ years of conversations on FB Group, and for the AI to learn our vortex lingo.
 
 ## Search engine for all things vortex
 Many students completely forgot the tools and protocols that were taught in prior classes, and have hard time finding them in docs. Also, finding some prior posts in the Facebook Vortexhealers group is very hard, sometimes takes hours, and sometimes is plain impossible. This is not good. That is even if you know who made the post and know the exact keywords. Modern google-like search should allow to find materials using so called facets (post: or comment:) by a specific person (person:) or or during a specific timeframe (a month ago, a year ago, last 5 years, etc.). 
