@@ -101,17 +101,18 @@ Let's build the list.  and add the most important steps of the energy system tun
 I have spent dozens of hours researching various conditions for myself and friends-and-family. I feel there should be a better way. This is also a way for healers to earn some income, by communicating these on their websites (must be careful with wording to avoid legal issues).
 Below is the list I suggest we start building.
 
-**Note: on remote dignostics**
+**Note: on remote diagnostics**
 VortexHealing is not a replacement for medical disgnostics and intervention, but can be used to complement it, e.g. VortexHealing can be used for diagnostics of conditions (e.g. infections, kidney stones, and even tumors), which you can then take to the traditional medical doctor.
 
 ### Bodily issues
-- Allergies
-- Autoimmune 
-- Hypertension (high blood pressure)
-- Infections
-- COVID
-- Anemia
-- Headache 
+- Allergies. 
+- Autoimmune. In a lot of cases caused by the sub-clinical virus.
+- Hypertension (high blood pressure). This can be alleviated if the cause is the sex hormons disbalance that comes with aging. In such case the system tries to compensate and causes sexual energy to backup in kidneys. This excess can be drained (MG/UAP/MI) and genmod (Genetics) can optimize sex hormons production (my free testosterone increased 15 times after the genmod).
+- Infections.
+- COVID.
+- Anemia.
+- Headaches.
+-  
 
 ### Mental health issues 
 - Anxiety 
@@ -126,22 +127,6 @@ It is generally assumed In VortexHealing community that for awakening you need c
 
 - Helping you get through 14 energetic movements (there is a separate document on this in student area download section). After the Omega class you will be at the 14th, but if you are one of those spiritual seekers like me who can't wait, below is for you. I have done it, it is possible.
 - Help with loosing the Core Veil prior to the Core Veil class. You need 14 EC prior to that and then what worked for me was a number of sessions with the higher level students channeling Presence (Omega level) and Surrender / Grace (Jewel-level).
-
-## Modular site 
-Most healers have no sites or have the rudimentary sites. Create a way to quickly customize a website with standard sections and tools, like these:
-
-- Bio 
-- Calendar of events
-- Booking to events 
-- Auto-reminders for events
-- Official Certificate for the current level of VortexHealing training 
-- Media: audio and video recordings
-- Testimonies
-- Catalog: a list of offered services and their prices
-- Accept payments 
-    - Paypal and credit cards, obviating the need to send emails back and forth
-    - Subscriptions to a block of events / sessions
-    - Monthly subscriptions
 
 ## VortexHealing practice development
 VortexHealing is very impactful but is largely unknown to the general public. Below are some ideas on how to bridge needs of people who don't want to take VortexHealing classes but could use Vortex for their health, lifestyle and work developement. One can think of this in terms of referrals, affiliate programs and bridging of existing networks to VortexHealing. Each area below has its own network online and in the physical world, and we need to think of how to integrate with such networks:
@@ -185,6 +170,22 @@ There is currently a skills gap between graduating from the VortexHealing class 
 - Energetic support for a group of students doing healing sessions on themselves or a partner
 - Monitoring healing sessions of students, review and evaluation afterwards
 - Healing office with a lead practitioner and junior practitioners 
+
+## Modular site 
+Most healers have no sites or have the rudimentary sites. Create a way to quickly customize a website with standard sections and tools, like these:
+
+- Bio 
+- Calendar of events
+- Booking to events 
+- Auto-reminders for events
+- Official Certificate for the current level of VortexHealing training 
+- Media: audio and video recordings
+- Testimonies
+- Catalog: a list of offered services and their prices
+- Accept payments 
+    - Paypal and credit cards, obviating the need to send emails back and forth
+    - Subscriptions to a block of events / sessions
+    - Monthly subscriptions
 
 ## General VortexHealing awareness program
 - Youtube (or Spotify) interviews with VortexHealing teachers, like Ric did with [Awareness Explorers](https://www.youtube.com/watch?v=7Xv-CELriII)
