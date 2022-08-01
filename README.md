@@ -19,7 +19,15 @@ Using modern tools and workflows, this burden can be lifted somewhat. One might 
 
 ## Mirrorring VortexHealers Facebook group
 Many students have a strong aversion to Facebook and therefore can't access the treasure trove of information accumulated in the last 10 years on this group. It is a shame many students are not part of the conversation and in a post-COVID world, with most classes moving online, they feel they are disconnected from the community. Many students are not even aware of all the questions that have been asked and answered already, and keep asking them in classes and events. 
-An alternative forum capability on VortexHealing.org [was discussed in 2015](https://www.facebook.com/groups/vortexhealers/posts/987140791352536/) by Ric and Anthony, but it never took hold. Perhaps Anthony hit some technical issues or our Facebook forum admins provided some manual support with the help of a pinned thread as a make shift bulletin board. Here is the proposed solution, based on some [new tech](https://github.com/mautrix/facebook). It is a bridge between [Matrix](https://matrix.org), the world's [most secure group messaging solution](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/edit#gid=0), which is also 100% open source.
+An alternative forum capability on VortexHealing.org [was discussed in 2015](https://www.facebook.com/groups/vortexhealers/posts/987140791352536/) by Ric and Anthony, but it never took hold. Perhaps Anthony hit some technical issues or our Facebook forum admins provided some manual support with the help of a pinned thread as a make shift bulletin board. 
+
+The difficulty lies in is not asking students to create Facebook profiles while: 
+1) automaticlly posting under their names on FB (hope this will be acceptable for FB-averse students)
+2) allowing only registered students to post on the vortexhealing.org forum
+3) giving admins an ability to suspend users
+
+Here is the proposed solution, based on some [new tech](https://github.com/mautrix/facebook). It is a bridge between [Matrix](https://matrix.org), the world's [most secure group messaging solution](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/edit#gid=0), which is also 100% open source.
+
 
 - Create a mirror copy of the Facebook group, automatically syncing it to the student area of VortexHealing.org website.
 - Allow to post and comment on this website and propagate automatically these posts back to current Facebook Group.
