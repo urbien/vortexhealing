@@ -53,9 +53,8 @@ Various VortexHealing documents refer to life extension and health span extensio
 
 As with genmods for other non-age-related targets, we need consistent research and experimentation in this area. After all, average age of VortexHealing community member is quite high, as this type of inner work requires maturity. If we can address some of the aging procsses, we can do healing of many deseases before and even after they emerge. See my review on recent [longevity breakthroughs](https://github.com/urbien/longevity). Note for example, a recent thymus regrowth experiment which resulted in the whole-body rejuvenation. Ric did an activation of his thymus, inspired by such research (post is somewhere on FB Group..).
 
-# Helping VortexHealing practitioners to make a living 
+# Helping VortexHealing practitioners make a living 
 VortexHealing is a healing art and many students are trying to make a living as a full-time healer. Yet most are struggling to sustain themeselves. Below are some ideas on how technology and processes supported by technology might be of help:
-
 
 ## Higher-level students working on lower-level students
 I suspect a high percentage of healing income of higher level students comes from healing done on students that started work on their systems fairly recently. Yet in my experience, finding the right healer for a particular issue is very hard, and things to focus on are not so clear. After gathering such info, I find myself constantly advising other students and making referrals to higher level students. It appears just listing healings by the level of their classes taken is helpful but inadequate. So here is an idea: list healers by their core specialty:
@@ -67,8 +66,8 @@ I suspect a high percentage of healing income of higher level students comes fro
 - those that can discover your strongest choice points
 - 
 
-### Checkup
-MG/UAP/MI protocol states that in the first session with the patient, healer needs to check for the most disruptive things in patient's system that need to be addressed before moving forward. I received many healing sessions from higher level students and referred a lot of people to to them, and it turns out this checkup is not typically done upfront. Yet, when I specifically asked for it, it turned out I had plenty of nasties in my system. It is highly beneficial to do for any students, and can be a good source of income for healers, if done systematically. So hear is the list:
+### Initial Patient Checkup
+MG/UAP/MI protocol states that in the first session with the patient, healer needs to check for the most disruptive things in patient's system that need to be addressed before moving forward. I received many healing sessions from higher level students and referred a lot of people to to them, and it turns out this checkup is not typically done upfront. Yet, when I specifically asked for it, it turned out I had plenty of nasties in my system, clearing which made a world of difference for me. It is highly beneficial to do such checkup for any new students, and if this is done systematically, it can be a good source of income for healers. So let's build the list:
 - viruses and especially sub-clinical viruses
 - spot of non-existence 
 - black hole(s) 
