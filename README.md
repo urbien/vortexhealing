@@ -32,13 +32,14 @@ And even if it does not work for bi-directional syncing, it is still very valuab
 Many students completely forgot the tools and protocols that were taught in prior classes, and have hard time finding them in docs. Also, finding some prior posts in the Facebook Vortexhealers group is very hard, sometimes takes hours, and sometimes is plain impossible. This is not good. That is even if you know who made the post and know the exact keywords. Modern google-like search should allow to find materials using so called facets (post: or comment:) by a specific person (person:) or or during a specific timeframe (a month ago, a year ago, last 5 years, etc.). 
 Search should work across all the materials:
 
-- All VortexHealing documents 
-- Vortexhealing.org site, including testimonies, healing stories, etc.
-- Search Facebook VortexHealers Group 
-- Search an archive of Ric's emails 
-- Ric's books
+- Vortexhealing.org site, including testimonies, healing stories, etc. (public)
+- Ric's books (public, but should only show the limited pages of the book, like Amazon.com does it)
+- All VortexHealing documents (non-public, in student area)
+- All VortexHealing documents German and Spanish (non-public, in student area)
+- Search an archive of Ric's emails (non-public, in student area)
+- Search Facebook VortexHealers Group (non-public, in student area, behind a personal student login)
 
-With the above projects we will have a large corpous of text that will help us train AI to improve the quality of automatic language translation for Zoom and for other AI-based projects.
+With the above projects we will have a large corpus of text that will help us train AI to improve the quality of automatic language translation for Zoom and for other AI-based projects.
 
 ## Research for genmod targets
 There is a lot of ideas in Genetics class review manual on what can be done with Genetics tools. What is missing is an ongoing discussion on what worked, what did not. VortexHealers Facebook group has a number of posts on this topic. Yet we need more focused discusson and exploration of progressive improvements in this area based on the new scientific data that arises and based on all the digital measurements and monitoring of the body that can be done nowadays, which was not possible earlier. 
