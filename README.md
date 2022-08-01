@@ -88,9 +88,9 @@ Let's build the list.  and add the most important steps of the energy system tun
 - Fix shut down voridian nodes, if any 
 - Check each organ's energy level, for subtle and physical organs
 - Check for damage of the Luminous Egg
-- Replentish Pre-natal Jing
+- Replenish pre-natal Jing
 - Restore converstion from pre-natal Jing to Kidney Essence
-- Replentish Kidney Essence
+- Replenish Kidney Essence
 
 ## Conditions for which VortexHealing may be helpful
 I have spent dozens of hours researching various conditions for myself and friends-and-family. I feel there should be a better way. This is also a way for healers to earn some income, by communicating these on their websites (must be careful with wording to avoid legal issues).
