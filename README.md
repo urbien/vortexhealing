@@ -42,7 +42,12 @@ With the above projects we will have a large corpous of text that will help us t
 There is a lot of ideas in Genetics class review manual on what can be done with Genetics tools. What is missing is an ongoing discussion on what worked, what did not. VortexHealers Facebook group has a number of posts on this topic. Yet we need more focused discusson and exploration of progressive improvements in this area based on the new scientific data that arises and based on all the digital measurements and monitoring of the body that can be done nowadays, which was not possible earlier. 
 
 # Healthspan, Anti-aging, Longevity, Youthening, Rejuvenation
-Various VortexHealing documents refer to life extension and health span extension techniques given in some classes. VortexHealers group has some posts on the subject:
+Various VortexHealing documents refer to life extension and health span extension techniques given in some classes. The following class documents list anti-aging tools:
+- Genetics, your main source
+- Jewel: section: "Certain Specific Kinds of Conditions & Tissue Damage to Check for (to heal) with Aging"
+- 
+
+VortexHealers group has some posts on the subject:
 
 - [Reversing shortening of telomeres](https://www.facebook.com/groups/vortexhealers/posts/1061656497234298/)
 - [Improving heart performance and overal stamina](https://www.facebook.com/groups/vortexhealers/posts/1982412285158710)
