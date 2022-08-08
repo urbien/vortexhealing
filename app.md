@@ -1,5 +1,15 @@
 # VortexHealing App ideas
+<!-- TOC -->
 
+- [VortexHealing App ideas](#vortexhealing-app-ideas)
+    - [Problem](#problem)
+    - [Protocols options](#protocols-options)
+    - [Keeping time](#keeping-time)
+    - [Reporting session back to client, accounting and billing](#reporting-session-back-to-client-accounting-and-billing)
+    - [Community and Commerce](#community-and-commerce)
+    - [Encouraging healer's intuition](#encouraging-healers-intuition)
+
+<!-- /TOC -->
 ## Problem
 
 VortexHealing protocols are complex due to many options and timing considerations. As a result many students just use a small subset of options they could memorize.

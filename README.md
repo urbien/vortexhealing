@@ -1,5 +1,29 @@
 # Introduction and motivation
+<!-- TOC -->
 
+- [Introduction and motivation](#introduction-and-motivation)
+    - [Increase accessibility of VortexHealing documentation](#increase-accessibility-of-vortexhealing-documentation)
+    - [Mirroring VortexHealers Facebook group](#mirroring-vortexhealers-facebook-group)
+    - [Search engine for all things vortex](#search-engine-for-all-things-vortex)
+    - [Research for genmod targets](#research-for-genmod-targets)
+- [Helping VortexHealing practitioners make a living](#helping-vortexhealing-practitioners-make-a-living)
+    - [Higher-level students working on lower-level students](#higher-level-students-working-on-lower-level-students)
+        - [Initial Patient Checkup](#initial-patient-checkup)
+        - [What would be good to do after Core Veil is gone?](#what-would-be-good-to-do-after-core-veil-is-gone)
+    - [If I had the money to spend, what should I invest into to upgrade my energetic system?](#if-i-had-the-money-to-spend-what-should-i-invest-into-to-upgrade-my-energetic-system)
+    - [Conditions for which VortexHealing may be helpful](#conditions-for-which-vortexhealing-may-be-helpful)
+        - [Bodily issues](#bodily-issues)
+        - [Mental health issues](#mental-health-issues)
+        - [Awakening](#awakening)
+    - [VortexHealing practice development](#vortexhealing-practice-development)
+    - [Zoom tools](#zoom-tools)
+    - [Internship program](#internship-program)
+    - [Modular site](#modular-site)
+    - [General VortexHealing awareness program](#general-vortexhealing-awareness-program)
+    - [Modular site for VortexHealing Teachers](#modular-site-for-vortexhealing-teachers)
+    - [Mobile and Web App](#mobile-and-web-app)
+
+<!-- /TOC -->
 I am practicing VortexHealing since April of 2021. I see objective (measurable) improvements with my health and subjective improvements in my human potential unfoldment and [self-transcendence](https://www.mistysansom.com/blog/spirituality-and-maslows-hierarchy-of-needs) in Maslow's pyramid of needs.
 
 This led to a desire to give back to VortexHealing community by applying my professional knowledge in the area of computer science and software engineering.
@@ -182,6 +206,7 @@ A synchronous translation of classes is important. I have a friend in Germany wh
 - AI can be trained on VortexHealing corpus of text to improve the quality of the above
 
 ## Internship program
+
 There is currently a skills gap between graduating from the VortexHealing class and becoming a professional healer. To successfully bridge that gap, there is a need for more support from teachers. Consider this to be an equivalent of the internship program for medical professionals. Internship program needs to provide a revenue stream for teachers or it will be unsustainable. 
 
 - Energetic support for a group of students doing healing sessions on themselves or a partner
