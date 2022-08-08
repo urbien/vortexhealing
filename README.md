@@ -59,7 +59,7 @@ There is a lot of ideas in Genetics class review manual on what can be done with
 
 # Helping VortexHealing practitioners make a living 
 
-VortexHealing is a healing art and many students are trying to make a living as a full-time healer. Yet most are struggling to sustain themeselves. Below are some ideas on how technology and processes supported by technology might be of help:
+VortexHealing is a healing art and many students are trying to make a living as a full-time healer. Yet most are struggling to sustain themselves. Below are some ideas on how technology and processes supported by technology might be of help:
 
 ## Higher-level students working on lower-level students
 
