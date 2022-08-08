@@ -1,9 +1,8 @@
-# Healthspan, Anti-aging, Longevity, Youthening, Rejuvenation
+Healthspan, Anti-aging, Longevity, Youthening, Rejuvenation
 <!-- TOC -->
 
-- [Healthspan, Anti-aging, Longevity, Youthening, Rejuvenation](#healthspan-anti-aging-longevity-youthening-rejuvenation)
-    - [VortexHealing documents](#vortexhealing-documents)
-    - [VortexHealers Facebook group](#vortexhealers-facebook-group)
+- [VortexHealing documents](#vortexhealing-documents)
+- [VortexHealers Facebook group](#vortexhealers-facebook-group)
 
 <!-- /TOC -->
 ## VortexHealing documents

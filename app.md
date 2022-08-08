@@ -1,13 +1,12 @@
-# VortexHealing App ideas
+VortexHealing App ideas
 <!-- TOC -->
 
-- [VortexHealing App ideas](#vortexhealing-app-ideas)
-    - [Problem](#problem)
-    - [Protocols options](#protocols-options)
-    - [Keeping time](#keeping-time)
-    - [Reporting session back to client, accounting and billing](#reporting-session-back-to-client-accounting-and-billing)
-    - [Community and Commerce](#community-and-commerce)
-    - [Encouraging healer's intuition](#encouraging-healers-intuition)
+- [Problem](#problem)
+- [Protocols options](#protocols-options)
+- [Keeping time](#keeping-time)
+- [Reporting session back to client, accounting and billing](#reporting-session-back-to-client-accounting-and-billing)
+- [Community and Commerce](#community-and-commerce)
+- [Encouraging healer's intuition](#encouraging-healers-intuition)
 
 <!-- /TOC -->
 ## Problem
