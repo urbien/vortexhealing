@@ -215,5 +215,6 @@ Most healers have no sites or have the rudimentary sites. Create a way to quickl
 ## Modular site for VortexHealing Teachers 
 Similar to a site for practicioners, but also classes, their reviews, discussions, details on wizard upkeep, as Lorraine calls it and a morning routine, as Terrie does.
 
-## Mobile App
-An app to help students with the study and practice (let's discuss what this app could do).
+## Mobile and Web App
+An app to help students with the study and practice.
+Here are some [initial ideas](https://github.com/urbien/vortexhealing/blob/main/app.md). Let's brainstorm what this app could do.
