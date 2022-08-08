@@ -1,8 +1,8 @@
-I am practicing VortexHealing since April of 2021. I see objective (measurable) improvements with my health and subjective improvements in my human potential unfoldment and [self-transcendence](https://www.mistysansom.com/blog/spirituality-and-maslows-hierarchy-of-needs) in Maslow's pyramid of needs.
+I am studying VortexHealing since April of 2021. I see several objective measurable improvements in my health and the subjective improvements in my [self-transcendence](https://www.mistysansom.com/blog/spirituality-and-maslows-hierarchy-of-needs) quest.
 
-This led to a desire to give back to VortexHealing community by applying my professional knowledge in the area of computer science and software engineering.
+I want to give back to VortexHealing community with my professional knowledge in computer science and software engineering.
 
-Below is a set of potential projects that emerged from the discussions with other VortexHealing students. Those projects, if come to life, will fill the need of VortexHealing community and bring awareness of its magic to people that are not part of it, but could benefit from its healing tools, or could wish to join it.
+Below is a set of potential projects that emerged from discussions with other VortexHealing students. We hope that these projects, if they ever come to life, would fill the needs of students and bring awareness of VortexHealing potential to more people.
 <!-- TOC -->
 
 - [Increase accessibility of VortexHealing documentation](#increase-accessibility-of-vortexhealing-documentation)
