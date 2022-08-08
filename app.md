@@ -27,6 +27,7 @@ Some information can be entered once, like your own level of training, other que
 
 - Has the patient lost their Core Veil yet?
 - Their karmic knots? If not, make a suggestion and educate the patient.
+- Is patient awake?
 - Would they consider multiple sessions? If so, offer to clear the most important energetic issues first (e.g. black holes).
 - ...
 
