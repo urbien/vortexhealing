@@ -19,7 +19,7 @@ other questions can be asked when you first meet the patient:
 Other questions can be specific to an issue:
 - Does the issue present as a physical problem or emotional / mental? 
 - What genetic component could the issue have?
-- Was there a comflict in ancestoral lines? Etc.
+- Was there a conflict in ancestoral lines?
 - 
 
 ## Keeping time 
