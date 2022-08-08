@@ -9,6 +9,7 @@ Below is a set of potential projects that emerged from the discussions with othe
 - [Mirroring VortexHealers Facebook group](#mirroring-vortexhealers-facebook-group)
 - [Search engine for all things vortex](#search-engine-for-all-things-vortex)
 - [Research for genmod targets](#research-for-genmod-targets)
+- [VortexHealers practice development](#vortexhealers-practice-development)
 - [General VortexHealing awareness program](#general-vortexhealing-awareness-program)
 - [Mobile and Web App](#mobile-and-web-app)
 
@@ -62,7 +63,11 @@ With the above projects we will have a large corpus of text that will help us tr
 
 ## Research for genmod targets
 
-There is a lot of ideas in Genetics class review manual on what can be done with Genetics tools. What is missing is an ongoing discussion on what worked, what did not. VortexHealers Facebook group has a number of posts on this topic. Yet we need more focused discussion and exploration of progressive improvements in this area based on the new scientific data that arises and based on all the digital measurements and monitoring of the body that can be done nowadays, which was not possible earlier. 
+There is a lot of ideas in Genetics class review manual on what can be done with Genetics tools. What is missing is an ongoing discussion on what worked, what did not. VortexHealers Facebook group has a number of posts on this topic. Yet we need more focused discussion and exploration of progressive improvements in this area based on the new scientific data that arises and based on all the digital measurements and monitoring of the body that can be done nowadays, which was not possible earlier.
+
+## VortexHealers practice development
+
+Many students would want to become practitioners, but they need help with technology and practice development. See the [document](practice.md) on this topic.
 
 ## General VortexHealing awareness program
 
