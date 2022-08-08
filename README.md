@@ -2,7 +2,7 @@
 
 I am practicing VortexHealing since April of 2021. I see objective (measurable) improvements with my health and subjective improvements in my human potential unfoldment and [self-transcendence](https://www.mistysansom.com/blog/spirituality-and-maslows-hierarchy-of-needs) in Maslow's pyramid of needs.
 
-This led to a desire to give back to VortexHealing community by applying my professional knowledge in the area of computer science and software engineering. 
+This led to a desire to give back to VortexHealing community by applying my professional knowledge in the area of computer science and software engineering.
 
 Below is a set of potential projects that emerged from the discussions with other VortexHealing students. Those projects, if come to life, will fill the need of VortexHealing community and bring awareness of its magic to people that are not part of it, but could benefit from its healing tools, or could wish to join it.
 
@@ -147,7 +147,7 @@ It is generally assumed In VortexHealing community that for awakening you need c
 
 VortexHealing is very impactful but is largely unknown to the general public. Below are some ideas on how to bridge needs of people who don't want to take VortexHealing classes but could use Vortex for their health, lifestyle and work development. One can think of this in terms of referrals, affiliate programs and bridging of existing networks to VortexHealing. Each area below has its own network online and in the physical world, and we need to think of how to integrate with such networks:
 
-- Longevity (e.g. via subscribers to related youtube channels)
+- Longevity (e.g. via subscribers to related youtube channels). See a separate article on VortexHealing used for [longevity and anti-aging](aging.md).
 - Preparing for death (e.g. via hospice)
 - Grief counseling (e.g. via hospitals)
 - Marriage and relationship support
@@ -223,4 +223,4 @@ Similar to a site for practitioners, but also classes, their reviews, discussion
 ## Mobile and Web App
 
 An app to help students with the study and practice.
-Here are some [initial ideas](https://github.com/urbien/vortexhealing/blob/main/app.md). Let's brainstorm what this app could do.
+Here are some [initial ideas](app.md). Let's brainstorm what this app could do.
