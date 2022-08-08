@@ -24,7 +24,7 @@ Other questions can be specific to an issue:
 
 - Does the issue present as a physical problem or emotional / mental? 
 - What genetic component could the issue have?
-- Was there a conflict in the ancestoral lines?
+- Was there a conflict in the ancestral lines?
 - ...
 
 ## Keeping time
