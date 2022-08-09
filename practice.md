@@ -40,7 +40,6 @@ MG/UAP/MI projects file states that in the first session with the patient, the h
 - Fixations
 - Entanglements
 - Divine Structures and Blueprints
-- Death spot (everyone has it, needs UAP/MI to clear most of it).
 - Gremmies of different kinds
 - Other karmic structures
 
@@ -118,10 +117,10 @@ VortexHealing is very impactful but is largely unknown to the general public. Be
 - Support other mental conditions like Bipolar, Schizophrenia, if due to a virus.
 - Support for autoimmune diseases, if due to a virus.
 - New home, new apartment, such as clearing, blessing, creating divine portals.
-- Clearing of entities and post clearing restoration.
-- Unresolved parent issues.
+- Clearing of entities and post-clearing restoration.
+- Unresolved parent issues. (see Consciousness Patterning from Relationships in Energy System part 2)
 - Losing weight, improving digestion.
-- Loosing hair and developing boldness. 
+- Loosing hair and developing boldness.
 - Energy system check up and repair (via longevity networks).
 - Meridians unreachable with needles (via acupuncturist networks).
 - Karmic knots (via Buddhist schools??).
