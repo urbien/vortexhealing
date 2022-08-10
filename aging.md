@@ -41,7 +41,7 @@ VortexHealers Facebook group has some posts on the subject:
 - **Cardiovascular**. Cardiovascular disease is a major cause of mortality. [Student's suggestion](https://www.facebook.com/groups/vortexhealers/posts/1976970349036237?comment_id=2157138707686066): MG/UAP/MI for “optimizing all metabolic pathways to prevent adverse cardiovascular incidents.” (took several hours to complete for this student).
 - **Brain and Teeth**. Gum infection has been linked to dementia. [Another student's suggestion it to use above intention for teeth health](https://www.facebook.com/groups/vortexhealers/posts/1976970349036237?comment_id=2157138707686066&reply_comment_id=2158136897586247).
 - [Hair issues](https://www.facebook.com/groups/vortexhealers/posts/3715113181888603/). How some students use VortexHealing tools to tackle this issue.
-- [Weight gain](https://www.facebook.com/groups/vortexhealers/posts/2474420975957836). As we age we gain weight due to changes in metabolism. Above post mentions how one student tackled it.
+- [Weight gain](https://www.facebook.com/groups/vortexhealers/posts/2474420975957836). As we age we gain weight due to the changes in metabolism. Above post mentions how one student tackled it (don't miss [this comment](https://www.facebook.com/groups/vortexhealers/posts/2474420975957836?comment_id=2474484129284854&reply_comment_id=2474618505938083) on the above post).
 - ...
 
 ### Targets for genmod research
