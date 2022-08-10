@@ -35,14 +35,14 @@ VortexHealers Facebook group has some posts on the subject:
 - [Decreasing elevated blood pressure and sleep disruption](https://www.facebook.com/groups/vortexhealers/posts/3013750192024909). 
 - [High cholesterol](https://www.facebook.com/groups/vortexhealers/posts/4051276051605646/)
 - Healthspan genmods. Comments on [this post](https://www.facebook.com/groups/vortexhealers/posts/5159360644130509) mention the list given in Genetics class and also list a bunch of additional genmods for healthspan / longevity. Also see this [newer genmod intention](https://www.facebook.com/groups/vortexhealers/posts/4051276051605646/) that Ric discovered in 2021.
-- Restoring mitochondria. Mitochondrial disfunction is one of the hallmarks of aging.
+- Mitochondrial function. Mitochondrial disfunction is one of the hallmarks of aging.
     - [Ric suggested](https://www.facebook.com/groups/vortexhealers/posts/1976970349036237/?comment_id=1982038831862722&reply_comment_id=1990152267718045) to channel MG/UAP/MI to increase “cellular functions of mitochondria.”
     - [A student's suggestion](https://www.facebook.com/groups/vortexhealers/posts/1976970349036237?comment_id=1982038831862722&reply_comment_id=2158549697544967) is to use MG/UAP/MI to "optimize metabolic pathways for healthy mitochondrial function”.
 - Cardiovascular. Cardiovascular disease is a major cause of mortality. [Student's suggestion](https://www.facebook.com/groups/vortexhealers/posts/1976970349036237?comment_id=2157138707686066): MG/UAP/MI for “optimizing all metabolic pathways to prevent adverse cardiovascular incidents.” (took several hours to complete for this student).
 - Brain and Teeth. Gum infection has been linked to dementia. [Another student's suggestion it to use above intention for teeth health](https://www.facebook.com/groups/vortexhealers/posts/1976970349036237?comment_id=2157138707686066&reply_comment_id=2158136897586247).
 - ...
 
-As with genmods for other non-age-related targets, we need consistent research and experimentation in this area. After all, average age of VortexHealing community member is quite high, as this type of inner work requires maturity. If we can address some of the aging processes, we can do healing of many diseases before and even after they emerge. See my review on recent [longevity breakthroughs](https://github.com/urbien/longevity). Note for example, a recent thymus regrowth experiment which resulted in the whole-body rejuvenation. Ric did an activation of his thymus, inspired by such research (post is somewhere on FB Group..).
+As with genmods for other non-age-related targets, we need consistent research and experimentation in this area. After all, average age of VortexHealing community member is quite high, as this type of inner work requires maturity. If we can address some of the aging processes, we can do healing of many diseases before and even after they emerge. See my review on recent [longevity breakthroughs](https://github.com/urbien/longevity). Note for example, a recent thymus regrowth experiment which resulted in the whole-body rejuvenation. Ric did an activation of his thymus, inspired by such research, note above his comment on FB VortexHEalers Group.
 
 ### Targets for genmod research
 
