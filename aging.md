@@ -31,7 +31,7 @@ VortexHealers Facebook group has some posts on the subject:
 - [Reversing shortening of telomeres](https://www.facebook.com/groups/vortexhealers/posts/1061656497234298/)
 - [Improving heart performance and overall stamina](https://www.facebook.com/groups/vortexhealers/posts/1982412285158710)
 - [Optimizing glands](https://www.facebook.com/groups/vortexhealers/posts/964449080288374)
-- [Thymus activation](https://www.facebook.com/groups/vortexhealers/posts/3395590063840918/?comment_id=3395669413832983) (there were other comments / posts by Ric on FB group but I can't find them, after spending hours on this). Thymus may be key to longevity, see it discussed in my longevity review below.
+- [Thymus activation](https://www.facebook.com/groups/vortexhealers/posts/3395590063840918/?comment_id=3395669413832983). Recent thymus regrowth clinical study resulted in rolling back the age by 1.5 years (see it discussed in my longevity breakthroughs review below). 
 - [Decreasing elevated blood pressure and sleep disruption](https://www.facebook.com/groups/vortexhealers/posts/3013750192024909). 
 - [High cholesterol](https://www.facebook.com/groups/vortexhealers/posts/4051276051605646/)
 - Healthspan genmods. Comments on [this post](https://www.facebook.com/groups/vortexhealers/posts/5159360644130509) mention the list given in Genetics class and also list a bunch of additional genmods for healthspan / longevity. Also see this [newer genmod intention](https://www.facebook.com/groups/vortexhealers/posts/4051276051605646/) that Ric discovered in 2021.
@@ -42,9 +42,9 @@ VortexHealers Facebook group has some posts on the subject:
 - Brain and Teeth. Gum infection has been linked to dementia. [Another student's suggestion it to use above intention for teeth health](https://www.facebook.com/groups/vortexhealers/posts/1976970349036237?comment_id=2157138707686066&reply_comment_id=2158136897586247).
 - ...
 
-As with genmods for other non-age-related targets, we need consistent research and experimentation in this area. After all, average age of VortexHealing community member is quite high, as this type of inner work requires maturity. If we can address some of the aging processes, we can do healing of many diseases before and even after they emerge. See my review on recent [longevity breakthroughs](https://github.com/urbien/longevity). Note for example, a recent thymus regrowth experiment which resulted in the whole-body rejuvenation. Ric did an activation of his thymus, inspired by such research, note above his comment on FB VortexHEalers Group.
-
 ### Targets for genmod research
+
+As with genmods for other non-age-related targets, we need consistent research and experimentation in this area. After all, average age of VortexHealing community member is quite high. If we can address some of the aging processes, we can do prevent or heal many more diseases. See my review on recent [longevity breakthroughs](https://github.com/urbien/longevity).
 
 By studying emerging bio research we could come up with new experimental genmods.
 
