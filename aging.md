@@ -40,7 +40,7 @@ VortexHealers Facebook group has some posts on the subject:
     - [A student's suggestion](https://www.facebook.com/groups/vortexhealers/posts/1976970349036237?comment_id=1982038831862722&reply_comment_id=2158549697544967) is to use MG/UAP/MI to "optimize metabolic pathways for healthy mitochondrial function”.
 - **Cardiovascular**. Cardiovascular disease is a major cause of mortality. [Student's suggestion](https://www.facebook.com/groups/vortexhealers/posts/1976970349036237?comment_id=2157138707686066): MG/UAP/MI for “optimizing all metabolic pathways to prevent adverse cardiovascular incidents.” (took several hours to complete for this student).
 - **Brain and Teeth**. Gum infection has been linked to dementia. [Another student's suggestion it to use above intention for teeth health](https://www.facebook.com/groups/vortexhealers/posts/1976970349036237?comment_id=2157138707686066&reply_comment_id=2158136897586247).
-- [Hair issues](https://www.facebook.com/groups/vortexhealers/posts/3715113181888603/?__cft__[0]=AZXdPxszNuK8ZoByXo2W2b41yRvH_gdTOGqAkuvw-tDp0QVOcyDEzQy6mzbz1B5Y0kFsbBNkiW9GKiMDYb-NN5Qo77Qmnk6fHirRwXV6YtmjQuaJ6DVzm2ziaHgPGqglqO8&__tn__=%2CO%2CP-R). How some students use VortexHealing tools to tackle this issue.
+- [Hair issues](https://www.facebook.com/groups/vortexhealers/posts/3715113181888603/). How some students use VortexHealing tools to tackle this issue.
 - [Weight gain](https://www.facebook.com/groups/vortexhealers/posts/2474420975957836). As we age we gain weight due to changes in metabolism. Above post mentions how one student tackled it.
 - ...
 
