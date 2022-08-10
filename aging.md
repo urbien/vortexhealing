@@ -46,5 +46,9 @@ As with genmods for other non-age-related targets, we need consistent research a
 
 ### Targets for genmod research
 
-- Muscle loss with aging further accelerates aging. As one ages, to sustain muscle mass one needs exercise more and more. Or perhaps we should devise an intention for a genmod based on [this scientific insight](https://www.facebook.com/groups/vortexhealers/posts/4828086953924548/).
+By studying emerging bio research we could come up with new experimental genmods.
+
+- Age-related muscle loss impacts metabolism, further accelerating aging. Perhaps we could devise an intention for a genmod based on [this scientific insight](https://www.facebook.com/groups/vortexhealers/posts/4828086953924548/).
+- Thymus involution starts at puberty and by the age of 70, . Research indicates that [sex hormones may be one of the causes of thymus atrophy](https://www.nature.com/articles/srep12895).
+- Other approaches for thymus regrowth. [This research](https://www.frontiersin.org/articles/10.3389/fimmu.2021.706244/full) lists several strategies for regrowing thymus.
 - ...
