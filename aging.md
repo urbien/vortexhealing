@@ -3,7 +3,7 @@ Healthspan, Anti-aging, Longevity, Youthening, Rejuvenation
 
 - [VortexHealing documents](#vortexhealing-documents)
 - [VortexHealers Facebook group](#vortexhealers-facebook-group)
-    - [Targets for genmod research](#targets-for-genmod-research)
+- [Let's do our own genmod research!](#lets-do-our-own-genmod-research)
 
 <!-- /TOC -->
 ## VortexHealing documents
@@ -34,7 +34,7 @@ VortexHealers Facebook group has some posts on the subject:
 - [Decreasing elevated blood pressure and sleep disruption](https://www.facebook.com/groups/vortexhealers/posts/3013750192024909). 
 - [High cholesterol](https://www.facebook.com/groups/vortexhealers/posts/4051276051605646/)
 - **Healthspan genmods**. As student in a comments on [this post](https://www.facebook.com/groups/vortexhealers/posts/5159360644130509) lists genmods given in Genetics class and also lists a bunch of additional genmods for healthspan / longevity. Also see this [newer genmod intention](https://www.facebook.com/groups/vortexhealers/posts/4051276051605646/) that Ric discovered in 2021.
-- Mitochondrial function. Mitochondrial disfunction is one of the hallmarks of aging.
+- **Mitochondrial disfunction**. This is one of the hallmarks of aging.
     - [Ric suggested](https://www.facebook.com/groups/vortexhealers/posts/1976970349036237/?comment_id=1982038831862722&reply_comment_id=1990152267718045) to channel MG/UAP/MI to increase “cellular functions of mitochondria.”
     - [A student's suggestion](https://www.facebook.com/groups/vortexhealers/posts/1976970349036237?comment_id=1982038831862722&reply_comment_id=2158549697544967) is to use MG/UAP/MI to "optimize metabolic pathways for healthy mitochondrial function”.
 - **Cardiovascular**. Cardiovascular disease is a major cause of mortality. [Student's suggestion](https://www.facebook.com/groups/vortexhealers/posts/1976970349036237?comment_id=2157138707686066): MG/UAP/MI for “optimizing all metabolic pathways to prevent adverse cardiovascular incidents.” (took several hours to complete for this student).
@@ -43,7 +43,7 @@ VortexHealers Facebook group has some posts on the subject:
 - [Weight gain](https://www.facebook.com/groups/vortexhealers/posts/2474420975957836). As we age we gain weight due to the changes in metabolism. Above post mentions how one student tackled it (don't miss [this comment](https://www.facebook.com/groups/vortexhealers/posts/2474420975957836?comment_id=2474484129284854&reply_comment_id=2474618505938083) on the above post).
 - ...
 
-### Targets for genmod research
+## Let's do our own genmod research!
 
 As with genmods for other non-age-related targets, we need consistent research and experimentation in this area. After all, average age of VortexHealing community member is quite high. If we can address some of the aging processes, we can do prevent or heal many more diseases. See my review on recent [longevity breakthroughs](https://github.com/urbien/longevity).
 
