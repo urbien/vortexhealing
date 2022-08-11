@@ -33,8 +33,8 @@ VortexHealers Facebook group has some posts on the subject:
 - [Reversing shortening of telomeres](https://www.facebook.com/groups/vortexhealers/posts/1061656497234298/)
 - [Improving heart performance and overall stamina](https://www.facebook.com/groups/vortexhealers/posts/1982412285158710)
 - [Optimizing glands](https://www.facebook.com/groups/vortexhealers/posts/964449080288374)
-- [Thymus activation](https://www.facebook.com/groups/vortexhealers/posts/3395590063840918/?comment_id=3395669413832983). Recent thymus regrowth clinical study resulted in rolling back the age by 1.5 years (see it discussed in my longevity breakthroughs review below). 
-- [Decreasing elevated blood pressure and sleep disruption](https://www.facebook.com/groups/vortexhealers/posts/3013750192024909). 
+- [Thymus activation](https://www.facebook.com/groups/vortexhealers/posts/3395590063840918/?comment_id=3395669413832983). Recent thymus regrowth clinical study resulted in rolling back the age by 1.5 years (see it discussed in my longevity breakthroughs review below). Thymic involution starts at puberty and [is completed by the age of 60 in men and 70 in women](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4847950/). By that time normal thymic tissue is replaced with fat. Yet thymus has an innate ability to regrow. See below recent research in this field.
+- [Elevated blood pressure (hypertension) and sleep disruption](https://www.facebook.com/groups/vortexhealers/posts/3013750192024909).
 - [High cholesterol](https://www.facebook.com/groups/vortexhealers/posts/4051276051605646/)
 - **Healthspan genmods**. As student in a comments on [this post](https://www.facebook.com/groups/vortexhealers/posts/5159360644130509) lists genmods given in Genetics class and also lists a bunch of additional genmods for healthspan / longevity. Also see this [newer genmod intention](https://www.facebook.com/groups/vortexhealers/posts/4051276051605646/) that Ric discovered in 2021.
 - **Mitochondrial disfunction**. This is one of the hallmarks of aging.
@@ -52,7 +52,10 @@ As with genmods for other non-age-related targets, we need consistent research a
 
 By studying emerging bio research we could come up with new experimental genmods.
 
-- Age-related muscle loss impacts metabolism, further accelerating aging. Perhaps we could devise an intention for a genmod based on [this scientific insight](https://www.facebook.com/groups/vortexhealers/posts/4828086953924548/).
-- Thymus involution starts at puberty and by the age of 70, . Research indicates that [sex hormones may be one of the causes of thymus atrophy](https://www.nature.com/articles/srep12895).
-- Other approaches for thymus regrowth. [This research](https://www.frontiersin.org/articles/10.3389/fimmu.2021.706244/full) lists several strategies for regrowing thymus.
+- **Age-related muscle loss** impacts metabolism, further accelerating aging. Perhaps we could devise an intention for a genmod based on [this scientific insight](https://www.facebook.com/groups/vortexhealers/posts/4828086953924548/).
+- **Reversing Thymus atrophy**.
+    - [This research](https://www.frontiersin.org/articles/10.3389/fimmu.2021.706244/full) lists several strategies for regrowing thymus.
+    - Thymus is a bootcamp for T-Cells maturation. Apparently only 1% of immature T-Cells produced by bone marrow are selected by thymus, the rest are send to die. If "grave gets emptier" it signals for thymus to regrow. We can genmod to boost this signal.
+    - Research indicates that [sex hormones may be one of the causes of thymus atrophy](https://www.nature.com/articles/srep12895).
+    - [Stress, and possibly ISR, can cause Thymus atrophy](https://www.frontiersin.org/articles/10.3389/fimmu.2021.652538/full).
 - ...
