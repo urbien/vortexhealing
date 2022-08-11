@@ -10,10 +10,10 @@ Healthspan, Anti-aging, Longevity, Youthening, Rejuvenation
 
 Various VortexHealing documents refer to life extension and health span extension techniques given in some classes. The following class documents list VortexHealing anti-aging tools:
 
-- Genetics review is your main source of many anti-aging genmods
+- **Genetics review** document is your main source of over a dozen anti-aging genmods
 - Jewel: section: "Certain Specific Kinds of Conditions & Tissue Damage to Check for (to heal) with Aging"
-- Death spot (everyone has it, needs UAP/MI to clear most of it). Adds ~3 years to life.
-- Restore normal cellular functioning, which changed after the Integrated Stress Response (ISR). ISR is caused by injuries, virus, environmental factors, inflammation, cancer and many other stressors. Regardless of the stressor, ISR moves the cell into a mode of functioning, that reduces transcription from mRNA to proteins. It appears that sometimes cells get stuck in this mode, despite the disappearance of the stressor. An [experimental ISR inhibiting drug ISRIB](https://www.ucsf.edu/news/2020/12/419201/drug-reverses-age-related-mental-decline-within-days) restores cognitive function in aged mice practically overnight. [Another study](https://pubmed.ncbi.nlm.nih.gov/31913484/) on neural degeneration due to ISR reviews initial successes in reversing this process. 
+- **Death spot** (everyone has it, needs UAP/MI to clear most of it). Adds ~3 years to life.
+- **Recover from cellular stress**. ISR (Integrated Stress Response) is a cellular mechanism that moves the cell into a specific state of resource preservation, in which cells sometimes get stuck. It is like PTSD on a cellular level. It may be triggered by the injury, an infection, environmental factors, inflammation, cancer, etc. An [experimental ISR inhibiting drug ISRIB](https://www.ucsf.edu/news/2020/12/419201/drug-reverses-age-related-mental-decline-within-days) restores cognitive function in aged mice practically overnight. [Another study](https://pubmed.ncbi.nlm.nih.gov/31913484/) on neural degeneration due to ISR reviews initial successes in reversing this process. 
 (Use MG/UAP rifting or MI remanifesting. Start with the brain, then nervous system, then skin and other organs). 
 - Heal & optimize mitochondria in the brain, and then in rest of the system (with Bioelectric Current)
 - Heal/optimize the telomeres to slow aging (with Bioelectric Current)
