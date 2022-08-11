@@ -21,6 +21,9 @@ Various VortexHealing documents refer to life extension and health span extensio
 - **“Background” structures for Jin Shin**, acupuncture, & voridian systems (last 2 are not needed for Vortex students). They will add some years to a person's life. Source: search for "For everyone, for general health" in MS review.
 - **Pre-natal Jing** (also called Baby Jing). Pre-natal Jing "fathers" Chi and Chi gets converted to Kidney Essence (depletion of the latter accelerates aging). Channel "background" structure with the intent to increase pre-natal Jing. You can later vortex into it for added effect. Source: search for "Baby Jing Structure" in MS review. This adds small amounts, see next for more.
 - **Pre-natal Jing, Chi, Kidney Essence**. Merlin's Grace (MG) class adds structures that greatly strengthen the energetic system and add large amounts pre-natal Jing, increase its conversion to Chi, and increase conversion of Chi to Kidney Essence, while harmonizing all 3 energies. Unfortunately you can't make these structures yourself, even at MI level. Source: search MG review for "Pre-Natal Jing, Chi & Kidney Essence"
+- **Weight issues**. Weight issues are often caused by aging and themselves cause aging. From genetics review: "For your Fat Cells: Scientists have found that slim people have more active fat cells than obese people. In slim people, their fat cells were both smaller and contained greater numbers of more active mitochondria (energy centers of cells), causing the fat cells to burn more energy in their “futile lipid cycle”. In contrast, more obese people often have faulty mitochondria in their fat cells, so they can’t burn energy as easily this way. So, 
+    - the genetic modification would be to get the mitochondria in your fat cells working more optimally. 
+    - UAP/MI wizards, can try using Bioelectric Current in their fat cells to optimize their mitochondria.
 - ...
 
 ## VortexHealers Facebook group
