@@ -15,13 +15,12 @@ Various VortexHealing documents refer to life extension and health span extensio
 - **Death spot** (everyone has it, needs UAP/MI to clear most of it). Adds ~3 years to life.
 - **Recover from cellular stress**. ISR (Integrated Stress Response) is a cellular mechanism that moves the cell into a specific state of resource preservation, in which cells sometimes get stuck. It is like PTSD on a cellular level. It may be triggered by the injury, an infection, environmental factors, inflammation, cancer, etc. An [experimental ISR inhibiting drug ISRIB](https://www.ucsf.edu/news/2020/12/419201/drug-reverses-age-related-mental-decline-within-days) restores cognitive function in aged mice practically overnight. [Another study](https://pubmed.ncbi.nlm.nih.gov/31913484/) on neural degeneration due to ISR reviews initial successes in reversing this process. 
 (Use MG/UAP rifting or MI remanifesting. Start with the brain, then nervous system, then skin and other organs). 
-- Heal & optimize mitochondria in the brain, and then in rest of the system (with Bioelectric Current)
-- Heal/optimize the telomeres to slow aging (with Bioelectric Current)
-- Bring up all constitutional energies by channelling MG structures with this intent (gets them up to 7)
-- Bring all constitutional energies from 7 to 10 (MG directly into the pathways with this intent).
-- “Background” structures for Jin Shin, acupuncture, & voridian systems (last 2 are not needed for Vortex students). They will add some years to a person's life. Source: search for "For everyone, for general health" in MS review.
-- "Background" structure to add small amounts of pre-natal Jing (also called Baby Jing).  Pre-natal Jing "fathers" Chi and Chi gets converted to Kidney Essence (depletion of the latter accelerates aging). Note that you can also vortex into it for added effect. Source: search for "Baby Jing Structure" in MS review.
-- Merlin's Grace (MG) class adds structures that greatly strengthen the energetic system and add large amounts pre-natal Jing, increase its conversion to Chi, and increase conversion of Chi to Kidney Essence, while harmonizing all 3 energies. Unfortunately you can't make these structures yourself, even at MI level. Source: search MG review for "Pre-Natal Jing, Chi & Kidney Essence"
+- **Heal & optimize mitochondria** in the brain, and then in rest of the system (with Bioelectric Current)
+- **Heal/optimize the telomeres** to slow aging (with Bioelectric Current)
+- **Bring up all constitutional energies** by channelling MG structures with this intent (gets them up to 7). After that, bring all constitutional energies from 7 to 10 (MG directly into the pathways with this intent).
+- **“Background” structures for Jin Shin**, acupuncture, & voridian systems (last 2 are not needed for Vortex students). They will add some years to a person's life. Source: search for "For everyone, for general health" in MS review.
+- **Pre-natal Jing** (also called Baby Jing). Pre-natal Jing "fathers" Chi and Chi gets converted to Kidney Essence (depletion of the latter accelerates aging). Channel "background" structure with the intent to increase pre-natal Jing. You can later vortex into it for added effect. Source: search for "Baby Jing Structure" in MS review. This adds small amounts, see next for more.
+- **Pre-natal Jing, Chi, Kidney Essence**. Merlin's Grace (MG) class adds structures that greatly strengthen the energetic system and add large amounts pre-natal Jing, increase its conversion to Chi, and increase conversion of Chi to Kidney Essence, while harmonizing all 3 energies. Unfortunately you can't make these structures yourself, even at MI level. Source: search MG review for "Pre-Natal Jing, Chi & Kidney Essence"
 - ...
 
 ## VortexHealers Facebook group
