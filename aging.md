@@ -54,7 +54,7 @@ By studying emerging bio research we could come up with new experimental genmods
 
 - **Age-related muscle loss** impacts metabolism, further accelerating aging. Perhaps we could devise an intention for a genmod based on [this scientific insight](https://www.facebook.com/groups/vortexhealers/posts/4828086953924548/).
 - **Reversing Thymus atrophy**.
-    - [This research](https://www.frontiersin.org/articles/10.3389/fimmu.2021.706244/full) lists several strategies for regrowing thymus.
+    - [This research](https://www.frontiersin.org/articles/10.3389/fimmu.2021.706244/full) lists several strategies for regrowing the thymus.
     - Thymus is a bootcamp for T-Cells maturation. Apparently only 1% of immature T-Cells produced by bone marrow are selected by thymus, the rest are send to die. If "grave gets emptier" it signals for thymus to regrow. We can genmod to boost this signal.
     - Research indicates that [sex hormones may be one of the causes of thymus atrophy](https://www.nature.com/articles/srep12895).
     - [Stress, and possibly ISR, can cause Thymus atrophy](https://www.frontiersin.org/articles/10.3389/fimmu.2021.652538/full).
