@@ -54,7 +54,10 @@ By studying emerging bio research we could come up with new experimental genmods
 - **Age-related muscle loss** impacts metabolism, further accelerating aging. Perhaps we could devise an intention for a genmod based on [this scientific insight](https://www.facebook.com/groups/vortexhealers/posts/4828086953924548/).
 - **Reversing Thymus atrophy**.
     - [This research](https://www.frontiersin.org/articles/10.3389/fimmu.2021.706244/full) lists several strategies for regrowing the thymus.
-    - Thymus is a bootcamp for T-Cells maturation. Apparently only 1% of immature T-Cells produced by bone marrow are selected by thymus, the rest are send to die. If "grave gets emptier" it signals for thymus to regrow. We can genmod to boost this signal.
+    - Thymus is a bootcamp for T-Cells maturation. Apparently only 1% of immature T-Cells produced by bone marrow are selected by thymus, the rest are send to die. If "grave gets emptier" it signals for thymus to regrow. There are two signals and we can do genmods to attenuate each.
     - Research indicates that [sex hormones may be one of the causes of thymus atrophy](https://www.nature.com/articles/srep12895).
     - [Stress, and possibly ISR, can cause Thymus atrophy](https://www.frontiersin.org/articles/10.3389/fimmu.2021.652538/full).
+    - [Placenta Stem Cell (MSC) exosomes](https://www.frontiersin.org/articles/10.3389/fimmu.2021.640595/full) to regrow thymus. Genmod for that.
+    - A [2022 review](https://www.nature.com/articles/s41417-022-00427-8) showed that such exosomes can now be modified to deliver additional synthetic miRNA and mRNA material to further influence the epigenetic translation process. 
+    - [Young blood exosomes to regrow thymus](https://faseb.onlinelibrary.wiley.com/doi/epdf/10.1096/fj.201800059R), Because this method influences the 2nd stage of epigenetic translation (from mRNA to proteins), it may call for epigenetic release, not genmod. Also this could be formulated in a genetics intervention e.g. "bringing bit of a young self's DNA".
 - ...
