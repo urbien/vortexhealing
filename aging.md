@@ -55,9 +55,18 @@ By studying emerging bio research we could come up with new experimental genmods
 - **Reversing Thymus atrophy**.
     - [This research](https://www.frontiersin.org/articles/10.3389/fimmu.2021.706244/full) lists several strategies for regrowing the thymus.
     - Thymus is a bootcamp for T-Cells maturation. Apparently only 1% of immature T-Cells produced by bone marrow are selected by thymus, the rest are send to die. If "grave gets emptier" it signals for thymus to regrow. There are two signals and we can do genmods to attenuate each.
-    - Research indicates that [sex hormones may be one of the causes of thymus atrophy](https://www.nature.com/articles/srep12895).
+    - Research indicates that [sex hormones may be one of the causes of thymus atrophy](https://www.nature.com/articles/srep12895). This is also supported by earlier research showing that [sex steroids ablation (SLA) rejuvenates both thymus and bone marrow](https://www.cell.com/stem-cell-reports/fulltext/S2213-6711(15)00039-9). Same SLA effect on thymus regrowth is shown by [this research](https://pubmed.ncbi.nlm.nih.gov/26039214/).
     - [Stress, and possibly ISR, can cause Thymus atrophy](https://www.frontiersin.org/articles/10.3389/fimmu.2021.652538/full).
     - [Placenta Stem Cell (MSC) exosomes](https://www.frontiersin.org/articles/10.3389/fimmu.2021.640595/full) to regrow thymus. Genmod for that.
     - A [2022 review](https://www.nature.com/articles/s41417-022-00427-8) showed that such exosomes can now be modified to deliver additional synthetic miRNA and mRNA material to further influence the epigenetic translation process. 
     - [Young blood exosomes to regrow thymus](https://faseb.onlinelibrary.wiley.com/doi/epdf/10.1096/fj.201800059R), Because this method influences the 2nd stage of epigenetic translation (from mRNA to proteins), it may call for epigenetic release, not genmod. Also this could be formulated in a genetics intervention e.g. "bringing bit of a young self's DNA".
+- **Bringing in DNA bits**.
+    - **Young blood fountain of youth**. Idea for intention: "bring in young blood factors from my own youth".
+    - **Old blood poison**: Just a single infusion of old blood causes [senescence to quickly and robustly spread through young organism](https://pubmed.ncbi.nlm.nih.gov/35902645/). For more on senescence, search for it in my [longevity review](https://github.com/urbien/longevity).
+        - Idea: "Bring in bits from ... to suppress or dilute old blood factors".
+        - Idea (more specific): "Bring in bits from ... to clear old blood factors that cause senescence".
+    - From placenta (see above). Mesenchymal Stem Cells exosomes are potent therapeutic agent in regenerative medicine. Exosomes bring new information into the cells. Perhaps we can use above intention or epigenetic intention to activate regeneration. [See review of MSC exosomes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8399916/)
+- **NAD boosting**. MAD molecule extremely important in metabolism, it is part of 100+ metabolic processes, and decreases [multiple times as we age]. Yet NAD boosters with did not prove to be effective with [food](https://www.youtube.com/watch?v=q-3GmgWO03k) or [supplements](https://www.youtube.com/watch?v=T1ACcAwn18Q). What is the reason?
+    - Lack of NAD recycling. It turns out for NAD supplementation to be effective, one needs to also improve NAD recycling.
+    - Massive NAD destruction. In 2016 it was discovered that [CD38 enzyme degrades NAD](https://www.youtube.com/watch?v=pj-CSSghDXo), and CD38 greatly increases with aging. A paper in 2022 showed that mice get [14% life extension and functional (e.g. muscle strength) and metabolic improvements](https://www.youtube.com/watch?v=JS4r4TqnsAc) with CD38 inhibitors, but most benefits are seen in the male mice. CD38 inhibitors exist in a half a dozen foods, but not in a [significant quantity](https://www.youtube.com/watch?v=ESCIfQp7z-U) to make a difference.
 - ...
