@@ -44,6 +44,7 @@ VortexHealers Facebook group has some posts on the subject:
 - [Hair issues](https://www.facebook.com/groups/vortexhealers/posts/3715113181888603/). How some students use VortexHealing tools to tackle this issue.
 - [Weight issues](https://www.facebook.com/groups/vortexhealers/posts/2474420975957836). As we age we gain weight due to the changes in metabolism. Above post mentions how one student tackled it (don't miss [this comment](https://www.facebook.com/groups/vortexhealers/posts/2474420975957836?comment_id=2474484129284854&reply_comment_id=2474618505938083) on the above post). Also, look at the following post on 3 weight management genmods:
 https://www.facebook.com/groups/vortexhealers/posts/2958028564263739
+- Genetic kinks. Genetic analysis is fairly accessible now and we can work on our personal genetic kinks, e.g. what Ric did for his [Gilbert liver condition](https://www.facebook.com/groups/vortexhealers/posts/2466411270092140/).
 - ...
 
 ## Let's do our own genmod research!
