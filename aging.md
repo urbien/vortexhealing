@@ -80,8 +80,7 @@ After cells reach a [Hayflick limit](https://en.wikipedia.org/wiki/Hayflick_limi
         - De-network: Disentangle senescent cells pathways that help them stay alive, despite their abnormal functioning and their inability to divide. Those pathways are helping senescent cells avoid natural cell death (apoptosis).
     - VortexHealing senolytics for individual organs. Intervention may be more efficient with individual organs, not the whole organism. In many cases for organs we can do free at-home functional testing instead of biologic tests (blood, saliva, etc.).
     
-    Functional testing, or clinical phenotypes, include: walking speed, grip strength, Fried frailty, polypharmacy, Mini-Mental State Examination (MMSE), Montreal Cognitive Assessment (MOCA), Sustained Attention Reaction Time, 2-choice reaction time. 
-    
+    Functional testing, or clinical phenotypes, include: walking speed, grip strength, Fried frailty, polypharmacy, Mini-Mental State Examination (MMSE), Montreal Cognitive Assessment (MOCA), Sustained Attention Reaction Time, 2-choice reaction time.
         - Skin (face) to visually assess the results with AI, e.g. https://vole.wtf/webcam-age/)Immune system (to counter immunosenescence, which causes numerous diseases of aging). TDB - find a functional test to confirm the change. Meanwhile we can use VortexHealing diagnostics to rate the immune system on 1-10 scale. 
         - Thymus. Better performing thymus increases the innate ability of the immune system to discover and remove the senescent cells.
         - Bone marrow
