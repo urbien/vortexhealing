@@ -42,7 +42,7 @@ VortexHealers Facebook group has some posts on the subject:
 - **Cardiovascular**. Cardiovascular disease is a major cause of mortality. [Student's suggestion](https://www.facebook.com/groups/vortexhealers/posts/1976970349036237?comment_id=2157138707686066): MG/UAP/MI for “optimizing all metabolic pathways to prevent adverse cardiovascular incidents.” (took several hours to complete for this student).
 - **Brain and Teeth**. Gum infection has been linked to dementia. [Another student's suggestion it to use above intention for teeth health](https://www.facebook.com/groups/vortexhealers/posts/1976970349036237?comment_id=2157138707686066&reply_comment_id=2158136897586247).
 - [Hair issues](https://www.facebook.com/groups/vortexhealers/posts/3715113181888603/). How some students use VortexHealing tools to tackle this issue.
-- [Weight issues](https://www.facebook.com/groups/vortexhealers/posts/2474420975957836). As we age we gain weight due to the changes in metabolism. Above post mentions how one student tackled it (don't miss [this comment](https://www.facebook.com/groups/vortexhealers/posts/2474420975957836?comment_id=2474484129284854&reply_comment_id=2474618505938083) on the above post). Also, look at the following post on [3 weight management genmods](https://www.facebook.com/groups/vortexhealers/posts/2958028564263739). Also, note genmods and bioelectric current [suggested by Ric](https://www.facebook.com/groups/vortexhealers/posts/2700426653357266/).
+- [Weight issues](https://www.facebook.com/groups/vortexhealers/posts/2474420975957836). As we age we gain weight due to the changes in metabolism. And then we enter a vicious cycle as extra weight accelerates aging. Above post mentions how one student tackled it (don't miss [this comment](https://www.facebook.com/groups/vortexhealers/posts/2474420975957836?comment_id=2474484129284854&reply_comment_id=2474618505938083) on the above post). Also, look at the following post on [3 weight management genmods](https://www.facebook.com/groups/vortexhealers/posts/2958028564263739). Also, note genmods and bioelectric current [suggested by Ric](https://www.facebook.com/groups/vortexhealers/posts/2700426653357266/).
 - Genetic kinks. Genetic analysis is fairly accessible now and we can work on our personal genetic kinks, e.g. what Ric did for his [Gilbert liver condition](https://www.facebook.com/groups/vortexhealers/posts/2466411270092140/).
 - ...
 
@@ -52,6 +52,7 @@ As with genmods for other non-age-related targets, we need consistent research a
 
 By studying emerging bio research we could come up with new experimental genmods.
 
+- **Plasma dilution** rejuvenates, as finally confirmed in a small human study at Berkley. https://www.lifespan.io/news/plasma-dilution-shown-to-rejuvenate-humans/. Let's devise interventions based on findings in this study.
 - **Age-related muscle loss** impacts metabolism, further accelerating aging. Perhaps we could devise an intention for a genmod based on [this scientific insight](https://www.facebook.com/groups/vortexhealers/posts/4828086953924548/).
 - **Reversing Thymus atrophy**.
     - [This research](https://www.frontiersin.org/articles/10.3389/fimmu.2021.706244/full) lists several strategies for regrowing the thymus.
@@ -70,4 +71,25 @@ By studying emerging bio research we could come up with new experimental genmods
 - **NAD boosting**. NAD molecule is extremely important in cell metabolism. It is part of 100+ metabolic processes, and its concentration decreases as we age. Multiple NAD boosters suppliments exist, yet they did not prove to be effective neither from [food sources](https://www.youtube.com/watch?v=q-3GmgWO03k) nor from [supplements](https://www.youtube.com/watch?v=T1ACcAwn18Q). What is the reason?
     - Lack of NAD recycling. It turns out for NAD supplementation to be effective, one needs to also improve NAD recycling.
     - Massive NAD destruction. In 2016 it was discovered that [CD38 enzyme degrades NAD](https://www.youtube.com/watch?v=pj-CSSghDXo), and CD38 greatly increases with aging. A paper in 2022 showed that mice get [14% life extension and functional (e.g. muscle strength) and metabolic improvements](https://www.youtube.com/watch?v=JS4r4TqnsAc) with CD38 inhibitors, but most benefits are seen in the male mice. CD38 inhibitors exist in a half a dozen foods, but not in a [significant quantity](https://www.youtube.com/watch?v=ESCIfQp7z-U) to make a difference.
+- Senescence. Clear senescent cells like a virus
+Let’s call it VortexHealing [senolytics](https://www.thelancet.com/journals/lanhl/article/PIIS2666-7568(21)00300-7/fulltext) :-)
+After cells reach a [Hayflick limit](https://en.wikipedia.org/wiki/Hayflick_limit) of about 40-60 cell divisions, they either die or enter an arrested development state, called senescence. Senescence is one of the hallmarks of aging. Suggested ideas:
+    - Natural cell death. Use VortexHealing to encourage senescent cells to undergo apoptosis
+    - Burn senescent cells. Use VortexHealing to burn the appropriate senescent cells (not all senescent cells are bad, same as with bacteria). Prior to that, like with the viruses:
+        - De-camouflage: Make senescent cells discoverable by the immune system. They often escape detection.
+        - De-network: Disentangle senescent cells pathways that help them stay alive, despite their abnormal functioning and their inability to divide. Those pathways are helping senescent cells avoid natural cell death (apoptosis).
+    - VortexHealing senolytics for individual organs. Intervention may be more efficient with individual organs, not the whole organism. In many cases for organs we can do free at-home functional testing instead of biologic tests (blood, saliva, etc.).
+    
+    Functional testing, or clinical phenotypes, include: walking speed, grip strength, Fried frailty, polypharmacy, Mini-Mental State Examination (MMSE), Montreal Cognitive Assessment (MOCA), Sustained Attention Reaction Time, 2-choice reaction time. 
+    
+    Skin (face) to visually assess the results with AI, e.g. https://vole.wtf/webcam-age/)
+Immune system (to counter immunosenescence, which causes numerous diseases of aging). TDB - find a functional test to confirm the change. Meanwhile we can use VortexHealing diagnostics to rate the immune system on 1-10 scale.
+Thymus. Better performing thymus increases the innate ability of the immune system to discover and remove the senescent cells.
+Bone marrow
+Hypothalamus. Neural stem cells in hypothalamus signal (via exosomes) the rate of aging for the whole body. Assess change via blood or saliva tests.
+Eyes. Changes could be tested for objectively at home (e.g. https://www.optoplus.com/en/eye-health/virtual-eye-test/online-eye-test/), that is without the blood test. 
+Joints. Joints experience observable senescence activity earlier in the aging process than other organs. Objective measurements at home could be devised on range of motion, speed, volume and strength of exercises (without the blood test)
+Brain. Cognitive tests are abundant online. We can also test for performance at a particular time of day, for morning mental fog, evening tired brain, and after meals. These might show marked improvements first.
+Cardiovascular system. Testing cardio performance at home can be done with high intensity exercises.
+- Detoxing
 - ...
