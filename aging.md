@@ -82,14 +82,13 @@ After cells reach a [Hayflick limit](https://en.wikipedia.org/wiki/Hayflick_limi
     
     Functional testing, or clinical phenotypes, include: walking speed, grip strength, Fried frailty, polypharmacy, Mini-Mental State Examination (MMSE), Montreal Cognitive Assessment (MOCA), Sustained Attention Reaction Time, 2-choice reaction time. 
     
-    Skin (face) to visually assess the results with AI, e.g. https://vole.wtf/webcam-age/)
-Immune system (to counter immunosenescence, which causes numerous diseases of aging). TDB - find a functional test to confirm the change. Meanwhile we can use VortexHealing diagnostics to rate the immune system on 1-10 scale.
-Thymus. Better performing thymus increases the innate ability of the immune system to discover and remove the senescent cells.
-Bone marrow
-Hypothalamus. Neural stem cells in hypothalamus signal (via exosomes) the rate of aging for the whole body. Assess change via blood or saliva tests.
-Eyes. Changes could be tested for objectively at home (e.g. https://www.optoplus.com/en/eye-health/virtual-eye-test/online-eye-test/), that is without the blood test. 
-Joints. Joints experience observable senescence activity earlier in the aging process than other organs. Objective measurements at home could be devised on range of motion, speed, volume and strength of exercises (without the blood test)
-Brain. Cognitive tests are abundant online. We can also test for performance at a particular time of day, for morning mental fog, evening tired brain, and after meals. These might show marked improvements first.
-Cardiovascular system. Testing cardio performance at home can be done with high intensity exercises.
+        - Skin (face) to visually assess the results with AI, e.g. https://vole.wtf/webcam-age/)Immune system (to counter immunosenescence, which causes numerous diseases of aging). TDB - find a functional test to confirm the change. Meanwhile we can use VortexHealing diagnostics to rate the immune system on 1-10 scale. 
+        - Thymus. Better performing thymus increases the innate ability of the immune system to discover and remove the senescent cells.
+        - Bone marrow
+        - Hypothalamus. Neural stem cells in hypothalamus signal (via exosomes) the rate of aging for the whole body. Assess change via blood or saliva tests.
+        - Eyes. Changes could be tested for objectively at home (e.g. https://www.optoplus.com/en/eye-health/virtual-eye-test/online-eye-test/), that is without the blood test. 
+        - Joints. Joints experience observable senescence activity earlier in the aging process than other organs. Objective measurements at home could be devised on range of motion, speed, volume and strength of exercises (without the blood test)
+        - Brain. Cognitive tests are abundant online. We can also test for performance at a particular time of day, for morning mental fog, evening tired brain, and after meals. These might show marked improvements first.
+        - Cardiovascular system. Testing cardio performance at home can be done with high intensity exercises.
 - Detoxing
 - ...
