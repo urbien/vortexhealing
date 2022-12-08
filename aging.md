@@ -88,5 +88,7 @@ After cells reach a [Hayflick limit](https://en.wikipedia.org/wiki/Hayflick_limi
         - Brain. Cognitive tests are abundant online. We can also test for performance at a particular time of day, for morning mental fog, evening tired brain, and after meals. These might show marked improvements first.
         - Cardiovascular system. Testing cardio performance at home can be done with high intensity exercises.
     Medical Functional testing, or testing for clinical phenotypes, include: walking speed, grip strength, Fried frailty, polypharmacy, Mini-Mental State Examination (MMSE), Montreal Cognitive Assessment (MOCA), Sustained Attention Reaction Time, 2-choice reaction time
+- Plasma dilution rejuvenation procedure. A landmark 2022 plasma dilution human study demonstrated significant reduction of risks for cancer and neurodegeneration, and reduction of Oxidative DNA Damage and senescence. It also discovered 10 proteins in blood that deviate from their youthful levels with age: https://link.springer.com/article/10.1007/s11357-022-00645-w.
+TDB: Test a possible causal relationship with aging, with a VortexHealing intervention that would restore those proteins to their youthful levels.
 - Detoxing
 - ...
