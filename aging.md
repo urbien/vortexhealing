@@ -78,7 +78,7 @@ After cells reach a [Hayflick limit](https://en.wikipedia.org/wiki/Hayflick_limi
     - Burn senescent cells. Use VortexHealing to burn the appropriate senescent cells (not all senescent cells are bad, same as with bacteria). Prior to that, like with the viruses:
         - De-camouflage: Make senescent cells discoverable by the immune system. They often escape detection.
         - De-network: Disentangle senescent cells pathways that help them stay alive, despite their abnormal functioning and their inability to divide. Those pathways are helping senescent cells avoid natural cell death (apoptosis).
-    - VortexHealing senolytics for individual organs. Intervention may be more efficient with individual organs, not the whole organism. In many cases for organs we can do free at-home functional testing instead of biologic tests (blood, saliva, etc.):
+    - VortexHealing senolytics for individual organs. Intervention may be more efficient with individual organs, not the whole organism. After all, when the epigenetic clocks measure our biological age, this single score could be elevated due to accelerated aging in different organs, e.g. kidneys for one and brain for another. What helps with concentrating on individual organs is that it possible to do free at-home testing:
         - Skin (face) to visually assess the results with AI, e.g. https://vole.wtf/webcam-age/)Immune system (to counter immunosenescence, which causes numerous diseases of aging). TDB - find a functional test to confirm the change. Meanwhile we can use VortexHealing diagnostics to rate the immune system on 1-10 scale. 
         - Thymus. Better performing thymus increases the innate ability of the immune system to discover and remove the senescent cells.
         - Bone marrow
